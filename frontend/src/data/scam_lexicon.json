@@ -1,0 +1,76 @@
+{
+  "urgency": [
+    "immediately",
+    "urgent",
+    "urgently",
+    "within 24 hours",
+    "tonight",
+    "today",
+    "at once",
+    "turant",
+    "fauran",
+    "abhi",
+    "jaldi",
+    "aaj raat"
+  ],
+  "account_threats": [
+    "account blocked",
+    "account freeze",
+    "services suspended",
+    "permanently deactivated",
+    "account on hold",
+    "band ho jayega",
+    "block kar diya",
+    "khata freeze",
+    "suspend hone se",
+    "deactivated today"
+  ],
+  "kyc_threats": [
+    "kyc expired",
+    "pending kyc",
+    "e-kyc",
+    "kyc verification",
+    "update kyc",
+    "submit aadhaar",
+    "kyc update",
+    "kyc avadhi samapt",
+    "kyc pura karein",
+    "kyc documents"
+  ],
+  "disconnection_threats": [
+    "electricity disconnected",
+    "power disconnected",
+    "disconnected tonight",
+    "power will be disconnected",
+    "bijli connection cut",
+    "power supply cut",
+    "meter disconnect",
+    "power termination"
+  ],
+  "authority_impersonation": [
+    "electricity office",
+    "power officer",
+    "electric officer",
+    "bank executive",
+    "customer care officer",
+    "technical agent",
+    "bijli vibhag",
+    "bijli adhikari",
+    "bank sahayak",
+    "cyber crime branch",
+    "army officer"
+  ],
+  "action_traps": [
+    "enter upi pin",
+    "approve collect request",
+    "accept collect",
+    "install anydesk",
+    "quicksupport",
+    "download teamviewer",
+    "share 9-digit code",
+    "send rs 1",
+    "upi pin enter karke",
+    "collect request approve",
+    "screen share"
+  ]
+}

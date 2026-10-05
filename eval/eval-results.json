@@ -1,0 +1,835 @@
+{
+  "total_scenarios": 200,
+  "tuning_set": {
+    "count": 100,
+    "pipeline": {
+      "accuracy": 0.8,
+      "precision": 0.7143,
+      "recall": 1,
+      "f1": 0.8333,
+      "tp": 50,
+      "tn": 30,
+      "fp": 20,
+      "fn": 0
+    },
+    "pipeline_high_only": {
+      "accuracy": 0.9,
+      "precision": 1,
+      "recall": 0.8,
+      "f1": 0.8889,
+      "tp": 40,
+      "tn": 50,
+      "fp": 0,
+      "fn": 10
+    },
+    "baseline": {
+      "accuracy": 0.7,
+      "precision": 0.6667,
+      "recall": 0.8,
+      "f1": 0.7273,
+      "tp": 40,
+      "tn": 30,
+      "fp": 20,
+      "fn": 10
+    },
+    "latencyMs": 89.88,
+    "errors": [
+      {
+        "id": "SCN-001",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.540.99 debited from A/c ending in 1000 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-003",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.3564.03 debited from A/c ending in 1002 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-005",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.3989.88 debited from A/c ending in 1004 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-007",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.1474.94 debited from A/c ending in 1006 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-009",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.4478.01 debited from A/c ending in 1008 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-011",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.1327.99 debited from A/c ending in 1010 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-013",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.803.25 debited from A/c ending in 1012 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-015",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.1468.79 debited from A/c ending in 1014 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-017",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.1952.76 debited from A/c ending in 1016 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-019",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.2456.81 debited from A/c ending in 1018 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-061",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 131.96 for order #8000 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-063",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 1413.24 for order #8002 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-065",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 1163.75 for order #8004 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-067",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 496.89 for order #8006 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-069",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 580.78 for order #8008 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-071",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 224.00 for order #8010 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-073",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 489.09 for order #8012 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-075",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 1598.65 for order #8014 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-077",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 923.28 for order #8016 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-079",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 694.17 for order #8018 has been successfully credited directly to your bank account. No action is required."
+      }
+    ]
+  },
+  "held_out_set": {
+    "count": 100,
+    "pipeline": {
+      "accuracy": 0.8,
+      "precision": 0.7143,
+      "recall": 1,
+      "f1": 0.8333,
+      "tp": 50,
+      "tn": 30,
+      "fp": 20,
+      "fn": 0
+    },
+    "pipeline_high_only": {
+      "accuracy": 0.9,
+      "precision": 1,
+      "recall": 0.8,
+      "f1": 0.8889,
+      "tp": 40,
+      "tn": 50,
+      "fp": 0,
+      "fn": 10
+    },
+    "baseline": {
+      "accuracy": 0.7,
+      "precision": 0.6667,
+      "recall": 0.8,
+      "f1": 0.7273,
+      "tp": 40,
+      "tn": 30,
+      "fp": 20,
+      "fn": 10
+    },
+    "latencyMs": 89.28,
+    "errors": [
+      {
+        "id": "SCN-002",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.1892.40 debited from A/c ending in 1001 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-004",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.590.33 debited from A/c ending in 1003 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-006",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.989.02 debited from A/c ending in 1005 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-008",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.905.88 debited from A/c ending in 1007 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-010",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.4283.53 debited from A/c ending in 1009 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-012",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.1074.58 debited from A/c ending in 1011 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-014",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.544.70 debited from A/c ending in 1013 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-016",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.2323.70 debited from A/c ending in 1015 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-018",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.3419.36 debited from A/c ending in 1017 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-020",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.2429.49 debited from A/c ending in 1019 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-062",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 138.70 for order #8001 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-064",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 804.37 for order #8003 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-066",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 1576.99 for order #8005 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-068",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 1274.21 for order #8007 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-070",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 360.42 for order #8009 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-072",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 1104.53 for order #8011 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-074",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 324.23 for order #8013 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-076",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 1071.53 for order #8015 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-078",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 177.03 for order #8017 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-080",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 979.87 for order #8019 has been successfully credited directly to your bank account. No action is required."
+      }
+    ]
+  },
+  "full_dataset": {
+    "count": 200,
+    "pipeline": {
+      "accuracy": 0.8,
+      "precision": 0.7143,
+      "recall": 1,
+      "f1": 0.8333,
+      "tp": 100,
+      "tn": 60,
+      "fp": 40,
+      "fn": 0
+    },
+    "pipeline_high_only": {
+      "accuracy": 0.9,
+      "precision": 1,
+      "recall": 0.8,
+      "f1": 0.8889,
+      "tp": 80,
+      "tn": 100,
+      "fp": 0,
+      "fn": 20
+    },
+    "baseline": {
+      "accuracy": 0.7,
+      "precision": 0.6667,
+      "recall": 0.8,
+      "f1": 0.7273,
+      "tp": 80,
+      "tn": 60,
+      "fp": 40,
+      "fn": 20
+    },
+    "latencyMs": 89.58,
+    "errors": [
+      {
+        "id": "SCN-001",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.540.99 debited from A/c ending in 1000 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-002",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.1892.40 debited from A/c ending in 1001 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-003",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.3564.03 debited from A/c ending in 1002 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-004",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.590.33 debited from A/c ending in 1003 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-005",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.3989.88 debited from A/c ending in 1004 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-006",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.989.02 debited from A/c ending in 1005 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-007",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.1474.94 debited from A/c ending in 1006 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-008",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.905.88 debited from A/c ending in 1007 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-009",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.4478.01 debited from A/c ending in 1008 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-010",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.4283.53 debited from A/c ending in 1009 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-011",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.1327.99 debited from A/c ending in 1010 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-012",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.1074.58 debited from A/c ending in 1011 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-013",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.803.25 debited from A/c ending in 1012 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-014",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.544.70 debited from A/c ending in 1013 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-015",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.1468.79 debited from A/c ending in 1014 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-016",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.2323.70 debited from A/c ending in 1015 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-017",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.1952.76 debited from A/c ending in 1016 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-018",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.3419.36 debited from A/c ending in 1017 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-019",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.2456.81 debited from A/c ending in 1018 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-020",
+        "type": "FP",
+        "category": "legit_bank_alert_link",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear SBI Customer, Rs.2429.49 debited from A/c ending in 1019 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211."
+      },
+      {
+        "id": "SCN-061",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 131.96 for order #8000 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-062",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 138.70 for order #8001 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-063",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 1413.24 for order #8002 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-064",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 804.37 for order #8003 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-065",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 1163.75 for order #8004 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-066",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 1576.99 for order #8005 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-067",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 496.89 for order #8006 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-068",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 1274.21 for order #8007 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-069",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 580.78 for order #8008 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-070",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 360.42 for order #8009 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-071",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 224.00 for order #8010 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-072",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 1104.53 for order #8011 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-073",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 489.09 for order #8012 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-074",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 324.23 for order #8013 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-075",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 1598.65 for order #8014 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-076",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 1071.53 for order #8015 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-077",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 923.28 for order #8016 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-078",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 177.03 for order #8017 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-079",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 694.17 for order #8018 has been successfully credited directly to your bank account. No action is required."
+      },
+      {
+        "id": "SCN-080",
+        "type": "FP",
+        "category": "legit_refund_no_qr",
+        "expected": "LOW_RISK",
+        "actual": "REVIEW",
+        "layer": "language",
+        "text": "Dear Amazon Customer, your refund of Rs 979.87 for order #8019 has been successfully credited directly to your bank account. No action is required."
+      }
+    ]
+  },
+  "accuracy": 0.8,
+  "precision": 0.7143,
+  "recall": 1,
+  "f1": 0.8333
+}

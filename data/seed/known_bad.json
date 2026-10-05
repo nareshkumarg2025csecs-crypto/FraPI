@@ -1,0 +1,17 @@
+[
+  {
+    "entityType": "vpa",
+    "value": "fake.refund@ybl",
+    "category": "upi_scam"
+  },
+  {
+    "entityType": "domain",
+    "value": "sbi-kyc-verify.in",
+    "category": "phishing"
+  },
+  {
+    "entityType": "phone",
+    "value": "+919876543210",
+    "category": "impersonation"
+  }
+]

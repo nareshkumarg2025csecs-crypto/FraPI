@@ -1,0 +1,16 @@
+{
+  "paytm": ["paytm.com", "paytmbank.com"],
+  "phonepe": ["phonepe.com"],
+  "google": ["google.com", "google.co.in", "gpay.app.goo.gl"],
+  "sbi": ["sbi.co.in", "onlinesbi.sbi", "statebankofindia.com"],
+  "hdfc": ["hdfcbank.com", "hdfc.com"],
+  "icici": ["icicibank.com"],
+  "axis": ["axisbank.com"],
+  "amazon": ["amazon.in", "amazon.com", "amzn.to", "amzn.in"],
+  "flipkart": ["flipkart.com"],
+  "swiggy": ["swiggy.com"],
+  "zomato": ["zomato.com"],
+  "bescom": ["karnataka.gov.in", "bescom.karnataka.gov.in"],
+  "tatapower": ["tatapower.com"],
+  "indiapost": ["indiapost.gov.in"]
+}

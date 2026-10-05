@@ -1,0 +1,2842 @@
+[
+  {
+    "id": "SCN-001",
+    "category": "legit_bank_alert_link",
+    "message": "Dear SBI Customer, Rs.540.99 debited from A/c ending in 1000 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "bank_alert",
+      "official_link"
+    ]
+  },
+  {
+    "id": "SCN-002",
+    "category": "legit_bank_alert_link",
+    "message": "Dear SBI Customer, Rs.1892.40 debited from A/c ending in 1001 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "bank_alert",
+      "official_link"
+    ]
+  },
+  {
+    "id": "SCN-003",
+    "category": "legit_bank_alert_link",
+    "message": "Dear SBI Customer, Rs.3564.03 debited from A/c ending in 1002 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "bank_alert",
+      "official_link"
+    ]
+  },
+  {
+    "id": "SCN-004",
+    "category": "legit_bank_alert_link",
+    "message": "Dear SBI Customer, Rs.590.33 debited from A/c ending in 1003 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "bank_alert",
+      "official_link"
+    ]
+  },
+  {
+    "id": "SCN-005",
+    "category": "legit_bank_alert_link",
+    "message": "Dear SBI Customer, Rs.3989.88 debited from A/c ending in 1004 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "bank_alert",
+      "official_link"
+    ]
+  },
+  {
+    "id": "SCN-006",
+    "category": "legit_bank_alert_link",
+    "message": "Dear SBI Customer, Rs.989.02 debited from A/c ending in 1005 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "bank_alert",
+      "official_link"
+    ]
+  },
+  {
+    "id": "SCN-007",
+    "category": "legit_bank_alert_link",
+    "message": "Dear SBI Customer, Rs.1474.94 debited from A/c ending in 1006 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "bank_alert",
+      "official_link"
+    ]
+  },
+  {
+    "id": "SCN-008",
+    "category": "legit_bank_alert_link",
+    "message": "Dear SBI Customer, Rs.905.88 debited from A/c ending in 1007 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "bank_alert",
+      "official_link"
+    ]
+  },
+  {
+    "id": "SCN-009",
+    "category": "legit_bank_alert_link",
+    "message": "Dear SBI Customer, Rs.4478.01 debited from A/c ending in 1008 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "bank_alert",
+      "official_link"
+    ]
+  },
+  {
+    "id": "SCN-010",
+    "category": "legit_bank_alert_link",
+    "message": "Dear SBI Customer, Rs.4283.53 debited from A/c ending in 1009 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "bank_alert",
+      "official_link"
+    ]
+  },
+  {
+    "id": "SCN-011",
+    "category": "legit_bank_alert_link",
+    "message": "Dear SBI Customer, Rs.1327.99 debited from A/c ending in 1010 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "bank_alert",
+      "official_link"
+    ]
+  },
+  {
+    "id": "SCN-012",
+    "category": "legit_bank_alert_link",
+    "message": "Dear SBI Customer, Rs.1074.58 debited from A/c ending in 1011 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "bank_alert",
+      "official_link"
+    ]
+  },
+  {
+    "id": "SCN-013",
+    "category": "legit_bank_alert_link",
+    "message": "Dear SBI Customer, Rs.803.25 debited from A/c ending in 1012 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "bank_alert",
+      "official_link"
+    ]
+  },
+  {
+    "id": "SCN-014",
+    "category": "legit_bank_alert_link",
+    "message": "Dear SBI Customer, Rs.544.70 debited from A/c ending in 1013 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "bank_alert",
+      "official_link"
+    ]
+  },
+  {
+    "id": "SCN-015",
+    "category": "legit_bank_alert_link",
+    "message": "Dear SBI Customer, Rs.1468.79 debited from A/c ending in 1014 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "bank_alert",
+      "official_link"
+    ]
+  },
+  {
+    "id": "SCN-016",
+    "category": "legit_bank_alert_link",
+    "message": "Dear SBI Customer, Rs.2323.70 debited from A/c ending in 1015 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "bank_alert",
+      "official_link"
+    ]
+  },
+  {
+    "id": "SCN-017",
+    "category": "legit_bank_alert_link",
+    "message": "Dear SBI Customer, Rs.1952.76 debited from A/c ending in 1016 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "bank_alert",
+      "official_link"
+    ]
+  },
+  {
+    "id": "SCN-018",
+    "category": "legit_bank_alert_link",
+    "message": "Dear SBI Customer, Rs.3419.36 debited from A/c ending in 1017 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "bank_alert",
+      "official_link"
+    ]
+  },
+  {
+    "id": "SCN-019",
+    "category": "legit_bank_alert_link",
+    "message": "Dear SBI Customer, Rs.2456.81 debited from A/c ending in 1018 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "bank_alert",
+      "official_link"
+    ]
+  },
+  {
+    "id": "SCN-020",
+    "category": "legit_bank_alert_link",
+    "message": "Dear SBI Customer, Rs.2429.49 debited from A/c ending in 1019 at Retail Store. If not done by you, visit https://www.onlinesbi.sbi or call 1800112211.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "bank_alert",
+      "official_link"
+    ]
+  },
+  {
+    "id": "SCN-021",
+    "category": "legit_otp_warning",
+    "message": "298810 is your secret OTP for transaction of Rs 505 at Flipkart. Bank never asks for OTP or PIN. Do NOT share with anyone.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "otp",
+      "security_warning"
+    ]
+  },
+  {
+    "id": "SCN-022",
+    "category": "legit_otp_warning",
+    "message": "209383 is your secret OTP for transaction of Rs 1725 at Flipkart. Bank never asks for OTP or PIN. Do NOT share with anyone.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "otp",
+      "security_warning"
+    ]
+  },
+  {
+    "id": "SCN-023",
+    "category": "legit_otp_warning",
+    "message": "701770 is your secret OTP for transaction of Rs 1225 at Flipkart. Bank never asks for OTP or PIN. Do NOT share with anyone.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "otp",
+      "security_warning"
+    ]
+  },
+  {
+    "id": "SCN-024",
+    "category": "legit_otp_warning",
+    "message": "505920 is your secret OTP for transaction of Rs 1394 at Flipkart. Bank never asks for OTP or PIN. Do NOT share with anyone.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "otp",
+      "security_warning"
+    ]
+  },
+  {
+    "id": "SCN-025",
+    "category": "legit_otp_warning",
+    "message": "974240 is your secret OTP for transaction of Rs 620 at Flipkart. Bank never asks for OTP or PIN. Do NOT share with anyone.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "otp",
+      "security_warning"
+    ]
+  },
+  {
+    "id": "SCN-026",
+    "category": "legit_otp_warning",
+    "message": "588505 is your secret OTP for transaction of Rs 909 at Flipkart. Bank never asks for OTP or PIN. Do NOT share with anyone.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "otp",
+      "security_warning"
+    ]
+  },
+  {
+    "id": "SCN-027",
+    "category": "legit_otp_warning",
+    "message": "648747 is your secret OTP for transaction of Rs 1740 at Flipkart. Bank never asks for OTP or PIN. Do NOT share with anyone.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "otp",
+      "security_warning"
+    ]
+  },
+  {
+    "id": "SCN-028",
+    "category": "legit_otp_warning",
+    "message": "823240 is your secret OTP for transaction of Rs 1493 at Flipkart. Bank never asks for OTP or PIN. Do NOT share with anyone.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "otp",
+      "security_warning"
+    ]
+  },
+  {
+    "id": "SCN-029",
+    "category": "legit_otp_warning",
+    "message": "238587 is your secret OTP for transaction of Rs 1791 at Flipkart. Bank never asks for OTP or PIN. Do NOT share with anyone.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "otp",
+      "security_warning"
+    ]
+  },
+  {
+    "id": "SCN-030",
+    "category": "legit_otp_warning",
+    "message": "395475 is your secret OTP for transaction of Rs 336 at Flipkart. Bank never asks for OTP or PIN. Do NOT share with anyone.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "otp",
+      "security_warning"
+    ]
+  },
+  {
+    "id": "SCN-031",
+    "category": "legit_otp_warning",
+    "message": "942046 is your secret OTP for transaction of Rs 1832 at Flipkart. Bank never asks for OTP or PIN. Do NOT share with anyone.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "otp",
+      "security_warning"
+    ]
+  },
+  {
+    "id": "SCN-032",
+    "category": "legit_otp_warning",
+    "message": "273264 is your secret OTP for transaction of Rs 160 at Flipkart. Bank never asks for OTP or PIN. Do NOT share with anyone.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "otp",
+      "security_warning"
+    ]
+  },
+  {
+    "id": "SCN-033",
+    "category": "legit_otp_warning",
+    "message": "685281 is your secret OTP for transaction of Rs 709 at Flipkart. Bank never asks for OTP or PIN. Do NOT share with anyone.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "otp",
+      "security_warning"
+    ]
+  },
+  {
+    "id": "SCN-034",
+    "category": "legit_otp_warning",
+    "message": "719467 is your secret OTP for transaction of Rs 1272 at Flipkart. Bank never asks for OTP or PIN. Do NOT share with anyone.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "otp",
+      "security_warning"
+    ]
+  },
+  {
+    "id": "SCN-035",
+    "category": "legit_otp_warning",
+    "message": "123751 is your secret OTP for transaction of Rs 869 at Flipkart. Bank never asks for OTP or PIN. Do NOT share with anyone.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "otp",
+      "security_warning"
+    ]
+  },
+  {
+    "id": "SCN-036",
+    "category": "legit_otp_warning",
+    "message": "840172 is your secret OTP for transaction of Rs 1354 at Flipkart. Bank never asks for OTP or PIN. Do NOT share with anyone.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "otp",
+      "security_warning"
+    ]
+  },
+  {
+    "id": "SCN-037",
+    "category": "legit_otp_warning",
+    "message": "885965 is your secret OTP for transaction of Rs 1787 at Flipkart. Bank never asks for OTP or PIN. Do NOT share with anyone.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "otp",
+      "security_warning"
+    ]
+  },
+  {
+    "id": "SCN-038",
+    "category": "legit_otp_warning",
+    "message": "392766 is your secret OTP for transaction of Rs 936 at Flipkart. Bank never asks for OTP or PIN. Do NOT share with anyone.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "otp",
+      "security_warning"
+    ]
+  },
+  {
+    "id": "SCN-039",
+    "category": "legit_otp_warning",
+    "message": "374815 is your secret OTP for transaction of Rs 2028 at Flipkart. Bank never asks for OTP or PIN. Do NOT share with anyone.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "otp",
+      "security_warning"
+    ]
+  },
+  {
+    "id": "SCN-040",
+    "category": "legit_otp_warning",
+    "message": "627963 is your secret OTP for transaction of Rs 1122 at Flipkart. Bank never asks for OTP or PIN. Do NOT share with anyone.",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "otp",
+      "security_warning"
+    ]
+  },
+  {
+    "id": "SCN-041",
+    "category": "legit_merchant_qr",
+    "message": "Payment of Rs 651 to Cafe Coffee Day counter 1.",
+    "qrPayload": "upi://pay?pa=ccd.store0@okhdfcbank&pn=Cafe%20Coffee%20Day&am=651&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay",
+      "expectedAmount": 651
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "merchant",
+      "qr_pay"
+    ]
+  },
+  {
+    "id": "SCN-042",
+    "category": "legit_merchant_qr",
+    "message": "Payment of Rs 74 to Cafe Coffee Day counter 2.",
+    "qrPayload": "upi://pay?pa=ccd.store1@okhdfcbank&pn=Cafe%20Coffee%20Day&am=74&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay",
+      "expectedAmount": 74
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "merchant",
+      "qr_pay"
+    ]
+  },
+  {
+    "id": "SCN-043",
+    "category": "legit_merchant_qr",
+    "message": "Payment of Rs 747 to Cafe Coffee Day counter 3.",
+    "qrPayload": "upi://pay?pa=ccd.store2@okhdfcbank&pn=Cafe%20Coffee%20Day&am=747&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay",
+      "expectedAmount": 747
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "merchant",
+      "qr_pay"
+    ]
+  },
+  {
+    "id": "SCN-044",
+    "category": "legit_merchant_qr",
+    "message": "Payment of Rs 153 to Cafe Coffee Day counter 4.",
+    "qrPayload": "upi://pay?pa=ccd.store3@okhdfcbank&pn=Cafe%20Coffee%20Day&am=153&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay",
+      "expectedAmount": 153
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "merchant",
+      "qr_pay"
+    ]
+  },
+  {
+    "id": "SCN-045",
+    "category": "legit_merchant_qr",
+    "message": "Payment of Rs 537 to Cafe Coffee Day counter 5.",
+    "qrPayload": "upi://pay?pa=ccd.store4@okhdfcbank&pn=Cafe%20Coffee%20Day&am=537&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay",
+      "expectedAmount": 537
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "merchant",
+      "qr_pay"
+    ]
+  },
+  {
+    "id": "SCN-046",
+    "category": "legit_merchant_qr",
+    "message": "Payment of Rs 244 to Cafe Coffee Day counter 6.",
+    "qrPayload": "upi://pay?pa=ccd.store5@okhdfcbank&pn=Cafe%20Coffee%20Day&am=244&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay",
+      "expectedAmount": 244
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "merchant",
+      "qr_pay"
+    ]
+  },
+  {
+    "id": "SCN-047",
+    "category": "legit_merchant_qr",
+    "message": "Payment of Rs 554 to Cafe Coffee Day counter 7.",
+    "qrPayload": "upi://pay?pa=ccd.store6@okhdfcbank&pn=Cafe%20Coffee%20Day&am=554&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay",
+      "expectedAmount": 554
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "merchant",
+      "qr_pay"
+    ]
+  },
+  {
+    "id": "SCN-048",
+    "category": "legit_merchant_qr",
+    "message": "Payment of Rs 96 to Cafe Coffee Day counter 8.",
+    "qrPayload": "upi://pay?pa=ccd.store7@okhdfcbank&pn=Cafe%20Coffee%20Day&am=96&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay",
+      "expectedAmount": 96
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "merchant",
+      "qr_pay"
+    ]
+  },
+  {
+    "id": "SCN-049",
+    "category": "legit_merchant_qr",
+    "message": "Payment of Rs 470 to Cafe Coffee Day counter 9.",
+    "qrPayload": "upi://pay?pa=ccd.store8@okhdfcbank&pn=Cafe%20Coffee%20Day&am=470&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay",
+      "expectedAmount": 470
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "merchant",
+      "qr_pay"
+    ]
+  },
+  {
+    "id": "SCN-050",
+    "category": "legit_merchant_qr",
+    "message": "Payment of Rs 110 to Cafe Coffee Day counter 10.",
+    "qrPayload": "upi://pay?pa=ccd.store9@okhdfcbank&pn=Cafe%20Coffee%20Day&am=110&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay",
+      "expectedAmount": 110
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "merchant",
+      "qr_pay"
+    ]
+  },
+  {
+    "id": "SCN-051",
+    "category": "legit_merchant_qr",
+    "message": "Payment of Rs 651 to Cafe Coffee Day counter 11.",
+    "qrPayload": "upi://pay?pa=ccd.store10@okhdfcbank&pn=Cafe%20Coffee%20Day&am=651&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay",
+      "expectedAmount": 651
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "merchant",
+      "qr_pay"
+    ]
+  },
+  {
+    "id": "SCN-052",
+    "category": "legit_merchant_qr",
+    "message": "Payment of Rs 562 to Cafe Coffee Day counter 12.",
+    "qrPayload": "upi://pay?pa=ccd.store11@okhdfcbank&pn=Cafe%20Coffee%20Day&am=562&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay",
+      "expectedAmount": 562
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "merchant",
+      "qr_pay"
+    ]
+  },
+  {
+    "id": "SCN-053",
+    "category": "legit_merchant_qr",
+    "message": "Payment of Rs 147 to Cafe Coffee Day counter 13.",
+    "qrPayload": "upi://pay?pa=ccd.store12@okhdfcbank&pn=Cafe%20Coffee%20Day&am=147&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay",
+      "expectedAmount": 147
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "merchant",
+      "qr_pay"
+    ]
+  },
+  {
+    "id": "SCN-054",
+    "category": "legit_merchant_qr",
+    "message": "Payment of Rs 212 to Cafe Coffee Day counter 14.",
+    "qrPayload": "upi://pay?pa=ccd.store13@okhdfcbank&pn=Cafe%20Coffee%20Day&am=212&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay",
+      "expectedAmount": 212
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "merchant",
+      "qr_pay"
+    ]
+  },
+  {
+    "id": "SCN-055",
+    "category": "legit_merchant_qr",
+    "message": "Payment of Rs 143 to Cafe Coffee Day counter 15.",
+    "qrPayload": "upi://pay?pa=ccd.store14@okhdfcbank&pn=Cafe%20Coffee%20Day&am=143&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay",
+      "expectedAmount": 143
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "merchant",
+      "qr_pay"
+    ]
+  },
+  {
+    "id": "SCN-056",
+    "category": "legit_merchant_qr",
+    "message": "Payment of Rs 682 to Cafe Coffee Day counter 16.",
+    "qrPayload": "upi://pay?pa=ccd.store15@okhdfcbank&pn=Cafe%20Coffee%20Day&am=682&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay",
+      "expectedAmount": 682
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "merchant",
+      "qr_pay"
+    ]
+  },
+  {
+    "id": "SCN-057",
+    "category": "legit_merchant_qr",
+    "message": "Payment of Rs 180 to Cafe Coffee Day counter 17.",
+    "qrPayload": "upi://pay?pa=ccd.store16@okhdfcbank&pn=Cafe%20Coffee%20Day&am=180&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay",
+      "expectedAmount": 180
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "merchant",
+      "qr_pay"
+    ]
+  },
+  {
+    "id": "SCN-058",
+    "category": "legit_merchant_qr",
+    "message": "Payment of Rs 839 to Cafe Coffee Day counter 18.",
+    "qrPayload": "upi://pay?pa=ccd.store17@okhdfcbank&pn=Cafe%20Coffee%20Day&am=839&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay",
+      "expectedAmount": 839
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "merchant",
+      "qr_pay"
+    ]
+  },
+  {
+    "id": "SCN-059",
+    "category": "legit_merchant_qr",
+    "message": "Payment of Rs 589 to Cafe Coffee Day counter 19.",
+    "qrPayload": "upi://pay?pa=ccd.store18@okhdfcbank&pn=Cafe%20Coffee%20Day&am=589&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay",
+      "expectedAmount": 589
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "merchant",
+      "qr_pay"
+    ]
+  },
+  {
+    "id": "SCN-060",
+    "category": "legit_merchant_qr",
+    "message": "Payment of Rs 655 to Cafe Coffee Day counter 20.",
+    "qrPayload": "upi://pay?pa=ccd.store19@okhdfcbank&pn=Cafe%20Coffee%20Day&am=655&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay",
+      "expectedAmount": 655
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "merchant",
+      "qr_pay"
+    ]
+  },
+  {
+    "id": "SCN-061",
+    "category": "legit_refund_no_qr",
+    "message": "Dear Amazon Customer, your refund of Rs 131.96 for order #8000 has been successfully credited directly to your bank account. No action is required.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "refund",
+      "no_qr"
+    ]
+  },
+  {
+    "id": "SCN-062",
+    "category": "legit_refund_no_qr",
+    "message": "Dear Amazon Customer, your refund of Rs 138.70 for order #8001 has been successfully credited directly to your bank account. No action is required.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "refund",
+      "no_qr"
+    ]
+  },
+  {
+    "id": "SCN-063",
+    "category": "legit_refund_no_qr",
+    "message": "Dear Amazon Customer, your refund of Rs 1413.24 for order #8002 has been successfully credited directly to your bank account. No action is required.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "refund",
+      "no_qr"
+    ]
+  },
+  {
+    "id": "SCN-064",
+    "category": "legit_refund_no_qr",
+    "message": "Dear Amazon Customer, your refund of Rs 804.37 for order #8003 has been successfully credited directly to your bank account. No action is required.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "refund",
+      "no_qr"
+    ]
+  },
+  {
+    "id": "SCN-065",
+    "category": "legit_refund_no_qr",
+    "message": "Dear Amazon Customer, your refund of Rs 1163.75 for order #8004 has been successfully credited directly to your bank account. No action is required.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "refund",
+      "no_qr"
+    ]
+  },
+  {
+    "id": "SCN-066",
+    "category": "legit_refund_no_qr",
+    "message": "Dear Amazon Customer, your refund of Rs 1576.99 for order #8005 has been successfully credited directly to your bank account. No action is required.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "refund",
+      "no_qr"
+    ]
+  },
+  {
+    "id": "SCN-067",
+    "category": "legit_refund_no_qr",
+    "message": "Dear Amazon Customer, your refund of Rs 496.89 for order #8006 has been successfully credited directly to your bank account. No action is required.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "refund",
+      "no_qr"
+    ]
+  },
+  {
+    "id": "SCN-068",
+    "category": "legit_refund_no_qr",
+    "message": "Dear Amazon Customer, your refund of Rs 1274.21 for order #8007 has been successfully credited directly to your bank account. No action is required.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "refund",
+      "no_qr"
+    ]
+  },
+  {
+    "id": "SCN-069",
+    "category": "legit_refund_no_qr",
+    "message": "Dear Amazon Customer, your refund of Rs 580.78 for order #8008 has been successfully credited directly to your bank account. No action is required.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "refund",
+      "no_qr"
+    ]
+  },
+  {
+    "id": "SCN-070",
+    "category": "legit_refund_no_qr",
+    "message": "Dear Amazon Customer, your refund of Rs 360.42 for order #8009 has been successfully credited directly to your bank account. No action is required.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "refund",
+      "no_qr"
+    ]
+  },
+  {
+    "id": "SCN-071",
+    "category": "legit_refund_no_qr",
+    "message": "Dear Amazon Customer, your refund of Rs 224.00 for order #8010 has been successfully credited directly to your bank account. No action is required.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "refund",
+      "no_qr"
+    ]
+  },
+  {
+    "id": "SCN-072",
+    "category": "legit_refund_no_qr",
+    "message": "Dear Amazon Customer, your refund of Rs 1104.53 for order #8011 has been successfully credited directly to your bank account. No action is required.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "refund",
+      "no_qr"
+    ]
+  },
+  {
+    "id": "SCN-073",
+    "category": "legit_refund_no_qr",
+    "message": "Dear Amazon Customer, your refund of Rs 489.09 for order #8012 has been successfully credited directly to your bank account. No action is required.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "refund",
+      "no_qr"
+    ]
+  },
+  {
+    "id": "SCN-074",
+    "category": "legit_refund_no_qr",
+    "message": "Dear Amazon Customer, your refund of Rs 324.23 for order #8013 has been successfully credited directly to your bank account. No action is required.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "refund",
+      "no_qr"
+    ]
+  },
+  {
+    "id": "SCN-075",
+    "category": "legit_refund_no_qr",
+    "message": "Dear Amazon Customer, your refund of Rs 1598.65 for order #8014 has been successfully credited directly to your bank account. No action is required.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "refund",
+      "no_qr"
+    ]
+  },
+  {
+    "id": "SCN-076",
+    "category": "legit_refund_no_qr",
+    "message": "Dear Amazon Customer, your refund of Rs 1071.53 for order #8015 has been successfully credited directly to your bank account. No action is required.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "refund",
+      "no_qr"
+    ]
+  },
+  {
+    "id": "SCN-077",
+    "category": "legit_refund_no_qr",
+    "message": "Dear Amazon Customer, your refund of Rs 923.28 for order #8016 has been successfully credited directly to your bank account. No action is required.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "refund",
+      "no_qr"
+    ]
+  },
+  {
+    "id": "SCN-078",
+    "category": "legit_refund_no_qr",
+    "message": "Dear Amazon Customer, your refund of Rs 177.03 for order #8017 has been successfully credited directly to your bank account. No action is required.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "refund",
+      "no_qr"
+    ]
+  },
+  {
+    "id": "SCN-079",
+    "category": "legit_refund_no_qr",
+    "message": "Dear Amazon Customer, your refund of Rs 694.17 for order #8018 has been successfully credited directly to your bank account. No action is required.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "refund",
+      "no_qr"
+    ]
+  },
+  {
+    "id": "SCN-080",
+    "category": "legit_refund_no_qr",
+    "message": "Dear Amazon Customer, your refund of Rs 979.87 for order #8019 has been successfully credited directly to your bank account. No action is required.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "refund",
+      "no_qr"
+    ]
+  },
+  {
+    "id": "SCN-081",
+    "category": "legit_friend_split",
+    "message": "Hey bro, here is my share of yesterday's dinner bill Rs 101. See you in college!",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "p2p",
+      "split_bill"
+    ]
+  },
+  {
+    "id": "SCN-082",
+    "category": "legit_friend_split",
+    "message": "Hey bro, here is my share of yesterday's dinner bill Rs 322. See you in college!",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "p2p",
+      "split_bill"
+    ]
+  },
+  {
+    "id": "SCN-083",
+    "category": "legit_friend_split",
+    "message": "Hey bro, here is my share of yesterday's dinner bill Rs 220. See you in college!",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "p2p",
+      "split_bill"
+    ]
+  },
+  {
+    "id": "SCN-084",
+    "category": "legit_friend_split",
+    "message": "Hey bro, here is my share of yesterday's dinner bill Rs 431. See you in college!",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "p2p",
+      "split_bill"
+    ]
+  },
+  {
+    "id": "SCN-085",
+    "category": "legit_friend_split",
+    "message": "Hey bro, here is my share of yesterday's dinner bill Rs 452. See you in college!",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "p2p",
+      "split_bill"
+    ]
+  },
+  {
+    "id": "SCN-086",
+    "category": "legit_friend_split",
+    "message": "Hey bro, here is my share of yesterday's dinner bill Rs 557. See you in college!",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "p2p",
+      "split_bill"
+    ]
+  },
+  {
+    "id": "SCN-087",
+    "category": "legit_friend_split",
+    "message": "Hey bro, here is my share of yesterday's dinner bill Rs 229. See you in college!",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "p2p",
+      "split_bill"
+    ]
+  },
+  {
+    "id": "SCN-088",
+    "category": "legit_friend_split",
+    "message": "Hey bro, here is my share of yesterday's dinner bill Rs 563. See you in college!",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "p2p",
+      "split_bill"
+    ]
+  },
+  {
+    "id": "SCN-089",
+    "category": "legit_friend_split",
+    "message": "Hey bro, here is my share of yesterday's dinner bill Rs 159. See you in college!",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "p2p",
+      "split_bill"
+    ]
+  },
+  {
+    "id": "SCN-090",
+    "category": "legit_friend_split",
+    "message": "Hey bro, here is my share of yesterday's dinner bill Rs 139. See you in college!",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "p2p",
+      "split_bill"
+    ]
+  },
+  {
+    "id": "SCN-091",
+    "category": "legit_friend_split",
+    "message": "Hey bro, here is my share of yesterday's dinner bill Rs 615. See you in college!",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "p2p",
+      "split_bill"
+    ]
+  },
+  {
+    "id": "SCN-092",
+    "category": "legit_friend_split",
+    "message": "Hey bro, here is my share of yesterday's dinner bill Rs 243. See you in college!",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "p2p",
+      "split_bill"
+    ]
+  },
+  {
+    "id": "SCN-093",
+    "category": "legit_friend_split",
+    "message": "Hey bro, here is my share of yesterday's dinner bill Rs 173. See you in college!",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "p2p",
+      "split_bill"
+    ]
+  },
+  {
+    "id": "SCN-094",
+    "category": "legit_friend_split",
+    "message": "Hey bro, here is my share of yesterday's dinner bill Rs 374. See you in college!",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "p2p",
+      "split_bill"
+    ]
+  },
+  {
+    "id": "SCN-095",
+    "category": "legit_friend_split",
+    "message": "Hey bro, here is my share of yesterday's dinner bill Rs 240. See you in college!",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "p2p",
+      "split_bill"
+    ]
+  },
+  {
+    "id": "SCN-096",
+    "category": "legit_friend_split",
+    "message": "Hey bro, here is my share of yesterday's dinner bill Rs 357. See you in college!",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "p2p",
+      "split_bill"
+    ]
+  },
+  {
+    "id": "SCN-097",
+    "category": "legit_friend_split",
+    "message": "Hey bro, here is my share of yesterday's dinner bill Rs 130. See you in college!",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "p2p",
+      "split_bill"
+    ]
+  },
+  {
+    "id": "SCN-098",
+    "category": "legit_friend_split",
+    "message": "Hey bro, here is my share of yesterday's dinner bill Rs 310. See you in college!",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "p2p",
+      "split_bill"
+    ]
+  },
+  {
+    "id": "SCN-099",
+    "category": "legit_friend_split",
+    "message": "Hey bro, here is my share of yesterday's dinner bill Rs 466. See you in college!",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "p2p",
+      "split_bill"
+    ]
+  },
+  {
+    "id": "SCN-100",
+    "category": "legit_friend_split",
+    "message": "Hey bro, here is my share of yesterday's dinner bill Rs 140. See you in college!",
+    "expectedLevel": "LOW_RISK",
+    "tags": [
+      "legitimate",
+      "p2p",
+      "split_bill"
+    ]
+  },
+  {
+    "id": "SCN-101",
+    "category": "scam_job_internship",
+    "message": "Congratulations! You are selected for Remote Data Entry Internship with stipend ₹25,000/month. Pay refundable registration fee ₹999 to book your onboarding slot immediately.",
+    "qrPayload": "upi://pay?pa=hr.onboarding0@ybl&pn=HR%20Desk&am=999&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "job_scam",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-102",
+    "category": "scam_job_internship",
+    "message": "Congratulations! You are selected for Remote Data Entry Internship with stipend ₹25,000/month. Pay refundable registration fee ₹1049 to book your onboarding slot immediately.",
+    "qrPayload": "upi://pay?pa=hr.onboarding1@ybl&pn=HR%20Desk&am=1049&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "job_scam",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-103",
+    "category": "scam_job_internship",
+    "message": "Congratulations! You are selected for Remote Data Entry Internship with stipend ₹25,000/month. Pay refundable registration fee ₹1099 to book your onboarding slot immediately.",
+    "qrPayload": "upi://pay?pa=hr.onboarding2@ybl&pn=HR%20Desk&am=1099&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "job_scam",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-104",
+    "category": "scam_job_internship",
+    "message": "Congratulations! You are selected for Remote Data Entry Internship with stipend ₹25,000/month. Pay refundable registration fee ₹1149 to book your onboarding slot immediately.",
+    "qrPayload": "upi://pay?pa=hr.onboarding3@ybl&pn=HR%20Desk&am=1149&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "job_scam",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-105",
+    "category": "scam_job_internship",
+    "message": "Congratulations! You are selected for Remote Data Entry Internship with stipend ₹25,000/month. Pay refundable registration fee ₹1199 to book your onboarding slot immediately.",
+    "qrPayload": "upi://pay?pa=hr.onboarding4@ybl&pn=HR%20Desk&am=1199&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "job_scam",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-106",
+    "category": "scam_job_internship",
+    "message": "Congratulations! You are selected for Remote Data Entry Internship with stipend ₹25,000/month. Pay refundable registration fee ₹1249 to book your onboarding slot immediately.",
+    "qrPayload": "upi://pay?pa=hr.onboarding5@ybl&pn=HR%20Desk&am=1249&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "job_scam",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-107",
+    "category": "scam_job_internship",
+    "message": "Congratulations! You are selected for Remote Data Entry Internship with stipend ₹25,000/month. Pay refundable registration fee ₹1299 to book your onboarding slot immediately.",
+    "qrPayload": "upi://pay?pa=hr.onboarding6@ybl&pn=HR%20Desk&am=1299&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "job_scam",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-108",
+    "category": "scam_job_internship",
+    "message": "Congratulations! You are selected for Remote Data Entry Internship with stipend ₹25,000/month. Pay refundable registration fee ₹1349 to book your onboarding slot immediately.",
+    "qrPayload": "upi://pay?pa=hr.onboarding7@ybl&pn=HR%20Desk&am=1349&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "job_scam",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-109",
+    "category": "scam_job_internship",
+    "message": "Congratulations! You are selected for Remote Data Entry Internship with stipend ₹25,000/month. Pay refundable registration fee ₹1399 to book your onboarding slot immediately.",
+    "qrPayload": "upi://pay?pa=hr.onboarding8@ybl&pn=HR%20Desk&am=1399&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "job_scam",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-110",
+    "category": "scam_job_internship",
+    "message": "Congratulations! You are selected for Remote Data Entry Internship with stipend ₹25,000/month. Pay refundable registration fee ₹1449 to book your onboarding slot immediately.",
+    "qrPayload": "upi://pay?pa=hr.onboarding9@ybl&pn=HR%20Desk&am=1449&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "pay"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "job_scam",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-111",
+    "category": "scam_lottery_prize",
+    "message": "KBC Lucky Draw Winner! You have won cash prize of Rs 25,00,000. Deposit processing fee Rs 2500 to release your prize money.",
+    "qrPayload": "upi://pay?pa=kbc.lottery0@oksbi&pn=KBC%20Rewards&am=2500&cu=INR",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "prize"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "lottery",
+      "pay_to_claim"
+    ]
+  },
+  {
+    "id": "SCN-112",
+    "category": "scam_lottery_prize",
+    "message": "KBC Lucky Draw Winner! You have won cash prize of Rs 25,00,000. Deposit processing fee Rs 2600 to release your prize money.",
+    "qrPayload": "upi://pay?pa=kbc.lottery1@oksbi&pn=KBC%20Rewards&am=2600&cu=INR",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "prize"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "lottery",
+      "pay_to_claim"
+    ]
+  },
+  {
+    "id": "SCN-113",
+    "category": "scam_lottery_prize",
+    "message": "KBC Lucky Draw Winner! You have won cash prize of Rs 25,00,000. Deposit processing fee Rs 2700 to release your prize money.",
+    "qrPayload": "upi://pay?pa=kbc.lottery2@oksbi&pn=KBC%20Rewards&am=2700&cu=INR",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "prize"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "lottery",
+      "pay_to_claim"
+    ]
+  },
+  {
+    "id": "SCN-114",
+    "category": "scam_lottery_prize",
+    "message": "KBC Lucky Draw Winner! You have won cash prize of Rs 25,00,000. Deposit processing fee Rs 2800 to release your prize money.",
+    "qrPayload": "upi://pay?pa=kbc.lottery3@oksbi&pn=KBC%20Rewards&am=2800&cu=INR",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "prize"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "lottery",
+      "pay_to_claim"
+    ]
+  },
+  {
+    "id": "SCN-115",
+    "category": "scam_lottery_prize",
+    "message": "KBC Lucky Draw Winner! You have won cash prize of Rs 25,00,000. Deposit processing fee Rs 2900 to release your prize money.",
+    "qrPayload": "upi://pay?pa=kbc.lottery4@oksbi&pn=KBC%20Rewards&am=2900&cu=INR",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "prize"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "lottery",
+      "pay_to_claim"
+    ]
+  },
+  {
+    "id": "SCN-116",
+    "category": "scam_lottery_prize",
+    "message": "KBC Lucky Draw Winner! You have won cash prize of Rs 25,00,000. Deposit processing fee Rs 3000 to release your prize money.",
+    "qrPayload": "upi://pay?pa=kbc.lottery5@oksbi&pn=KBC%20Rewards&am=3000&cu=INR",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "prize"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "lottery",
+      "pay_to_claim"
+    ]
+  },
+  {
+    "id": "SCN-117",
+    "category": "scam_lottery_prize",
+    "message": "KBC Lucky Draw Winner! You have won cash prize of Rs 25,00,000. Deposit processing fee Rs 3100 to release your prize money.",
+    "qrPayload": "upi://pay?pa=kbc.lottery6@oksbi&pn=KBC%20Rewards&am=3100&cu=INR",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "prize"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "lottery",
+      "pay_to_claim"
+    ]
+  },
+  {
+    "id": "SCN-118",
+    "category": "scam_lottery_prize",
+    "message": "KBC Lucky Draw Winner! You have won cash prize of Rs 25,00,000. Deposit processing fee Rs 3200 to release your prize money.",
+    "qrPayload": "upi://pay?pa=kbc.lottery7@oksbi&pn=KBC%20Rewards&am=3200&cu=INR",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "prize"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "lottery",
+      "pay_to_claim"
+    ]
+  },
+  {
+    "id": "SCN-119",
+    "category": "scam_lottery_prize",
+    "message": "KBC Lucky Draw Winner! You have won cash prize of Rs 25,00,000. Deposit processing fee Rs 3300 to release your prize money.",
+    "qrPayload": "upi://pay?pa=kbc.lottery8@oksbi&pn=KBC%20Rewards&am=3300&cu=INR",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "prize"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "lottery",
+      "pay_to_claim"
+    ]
+  },
+  {
+    "id": "SCN-120",
+    "category": "scam_lottery_prize",
+    "message": "KBC Lucky Draw Winner! You have won cash prize of Rs 25,00,000. Deposit processing fee Rs 3400 to release your prize money.",
+    "qrPayload": "upi://pay?pa=kbc.lottery9@oksbi&pn=KBC%20Rewards&am=3400&cu=INR",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "prize"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "lottery",
+      "pay_to_claim"
+    ]
+  },
+  {
+    "id": "SCN-121",
+    "category": "scam_kyc_electricity_threat",
+    "message": "Dear user, your electricity power connection will be disconnect tonight at 9:30 PM due to unpaid bill. Pay immediately to avoid disconnection: http://bit.ly/power-bill-pay",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "electricity_threat",
+      "service_threat"
+    ]
+  },
+  {
+    "id": "SCN-122",
+    "category": "scam_kyc_electricity_threat",
+    "message": "Dear user, your electricity power connection will be disconnect tonight at 9:30 PM due to unpaid bill. Pay immediately to avoid disconnection: http://bit.ly/power-bill-pay",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "electricity_threat",
+      "service_threat"
+    ]
+  },
+  {
+    "id": "SCN-123",
+    "category": "scam_kyc_electricity_threat",
+    "message": "Dear user, your electricity power connection will be disconnect tonight at 9:30 PM due to unpaid bill. Pay immediately to avoid disconnection: http://bit.ly/power-bill-pay",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "electricity_threat",
+      "service_threat"
+    ]
+  },
+  {
+    "id": "SCN-124",
+    "category": "scam_kyc_electricity_threat",
+    "message": "Dear user, your electricity power connection will be disconnect tonight at 9:30 PM due to unpaid bill. Pay immediately to avoid disconnection: http://bit.ly/power-bill-pay",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "electricity_threat",
+      "service_threat"
+    ]
+  },
+  {
+    "id": "SCN-125",
+    "category": "scam_kyc_electricity_threat",
+    "message": "Dear user, your electricity power connection will be disconnect tonight at 9:30 PM due to unpaid bill. Pay immediately to avoid disconnection: http://bit.ly/power-bill-pay",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "electricity_threat",
+      "service_threat"
+    ]
+  },
+  {
+    "id": "SCN-126",
+    "category": "scam_kyc_electricity_threat",
+    "message": "Dear user, your electricity power connection will be disconnect tonight at 9:30 PM due to unpaid bill. Pay immediately to avoid disconnection: http://bit.ly/power-bill-pay",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "electricity_threat",
+      "service_threat"
+    ]
+  },
+  {
+    "id": "SCN-127",
+    "category": "scam_kyc_electricity_threat",
+    "message": "Dear user, your electricity power connection will be disconnect tonight at 9:30 PM due to unpaid bill. Pay immediately to avoid disconnection: http://bit.ly/power-bill-pay",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "electricity_threat",
+      "service_threat"
+    ]
+  },
+  {
+    "id": "SCN-128",
+    "category": "scam_kyc_electricity_threat",
+    "message": "Dear user, your electricity power connection will be disconnect tonight at 9:30 PM due to unpaid bill. Pay immediately to avoid disconnection: http://bit.ly/power-bill-pay",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "electricity_threat",
+      "service_threat"
+    ]
+  },
+  {
+    "id": "SCN-129",
+    "category": "scam_kyc_electricity_threat",
+    "message": "Dear user, your electricity power connection will be disconnect tonight at 9:30 PM due to unpaid bill. Pay immediately to avoid disconnection: http://bit.ly/power-bill-pay",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "electricity_threat",
+      "service_threat"
+    ]
+  },
+  {
+    "id": "SCN-130",
+    "category": "scam_kyc_electricity_threat",
+    "message": "Dear user, your electricity power connection will be disconnect tonight at 9:30 PM due to unpaid bill. Pay immediately to avoid disconnection: http://bit.ly/power-bill-pay",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "electricity_threat",
+      "service_threat"
+    ]
+  },
+  {
+    "id": "SCN-131",
+    "category": "scam_parcel_customs",
+    "message": "IndiaPost Notice: Your international parcel package #IN90000 is detained at customs. Pay clearance fee Rs 450 immediately to release shipment.",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "parcel_customs",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-132",
+    "category": "scam_parcel_customs",
+    "message": "IndiaPost Notice: Your international parcel package #IN90001 is detained at customs. Pay clearance fee Rs 470 immediately to release shipment.",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "parcel_customs",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-133",
+    "category": "scam_parcel_customs",
+    "message": "IndiaPost Notice: Your international parcel package #IN90002 is detained at customs. Pay clearance fee Rs 490 immediately to release shipment.",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "parcel_customs",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-134",
+    "category": "scam_parcel_customs",
+    "message": "IndiaPost Notice: Your international parcel package #IN90003 is detained at customs. Pay clearance fee Rs 510 immediately to release shipment.",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "parcel_customs",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-135",
+    "category": "scam_parcel_customs",
+    "message": "IndiaPost Notice: Your international parcel package #IN90004 is detained at customs. Pay clearance fee Rs 530 immediately to release shipment.",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "parcel_customs",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-136",
+    "category": "scam_parcel_customs",
+    "message": "IndiaPost Notice: Your international parcel package #IN90005 is detained at customs. Pay clearance fee Rs 550 immediately to release shipment.",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "parcel_customs",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-137",
+    "category": "scam_parcel_customs",
+    "message": "IndiaPost Notice: Your international parcel package #IN90006 is detained at customs. Pay clearance fee Rs 570 immediately to release shipment.",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "parcel_customs",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-138",
+    "category": "scam_parcel_customs",
+    "message": "IndiaPost Notice: Your international parcel package #IN90007 is detained at customs. Pay clearance fee Rs 590 immediately to release shipment.",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "parcel_customs",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-139",
+    "category": "scam_parcel_customs",
+    "message": "IndiaPost Notice: Your international parcel package #IN90008 is detained at customs. Pay clearance fee Rs 610 immediately to release shipment.",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "parcel_customs",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-140",
+    "category": "scam_parcel_customs",
+    "message": "IndiaPost Notice: Your international parcel package #IN90009 is detained at customs. Pay clearance fee Rs 630 immediately to release shipment.",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "parcel_customs",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-141",
+    "category": "scam_remote_support",
+    "message": "GooglePay Customer Support: To resolve your pending refund of Rs 4,000, please download AnyDesk app and share the 9-digit code with our technician.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "support"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "remote_access",
+      "support_impersonation"
+    ]
+  },
+  {
+    "id": "SCN-142",
+    "category": "scam_remote_support",
+    "message": "GooglePay Customer Support: To resolve your pending refund of Rs 4,000, please download AnyDesk app and share the 9-digit code with our technician.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "support"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "remote_access",
+      "support_impersonation"
+    ]
+  },
+  {
+    "id": "SCN-143",
+    "category": "scam_remote_support",
+    "message": "GooglePay Customer Support: To resolve your pending refund of Rs 4,000, please download AnyDesk app and share the 9-digit code with our technician.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "support"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "remote_access",
+      "support_impersonation"
+    ]
+  },
+  {
+    "id": "SCN-144",
+    "category": "scam_remote_support",
+    "message": "GooglePay Customer Support: To resolve your pending refund of Rs 4,000, please download AnyDesk app and share the 9-digit code with our technician.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "support"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "remote_access",
+      "support_impersonation"
+    ]
+  },
+  {
+    "id": "SCN-145",
+    "category": "scam_remote_support",
+    "message": "GooglePay Customer Support: To resolve your pending refund of Rs 4,000, please download AnyDesk app and share the 9-digit code with our technician.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "support"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "remote_access",
+      "support_impersonation"
+    ]
+  },
+  {
+    "id": "SCN-146",
+    "category": "scam_remote_support",
+    "message": "GooglePay Customer Support: To resolve your pending refund of Rs 4,000, please download AnyDesk app and share the 9-digit code with our technician.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "support"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "remote_access",
+      "support_impersonation"
+    ]
+  },
+  {
+    "id": "SCN-147",
+    "category": "scam_remote_support",
+    "message": "GooglePay Customer Support: To resolve your pending refund of Rs 4,000, please download AnyDesk app and share the 9-digit code with our technician.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "support"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "remote_access",
+      "support_impersonation"
+    ]
+  },
+  {
+    "id": "SCN-148",
+    "category": "scam_remote_support",
+    "message": "GooglePay Customer Support: To resolve your pending refund of Rs 4,000, please download AnyDesk app and share the 9-digit code with our technician.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "support"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "remote_access",
+      "support_impersonation"
+    ]
+  },
+  {
+    "id": "SCN-149",
+    "category": "scam_remote_support",
+    "message": "GooglePay Customer Support: To resolve your pending refund of Rs 4,000, please download AnyDesk app and share the 9-digit code with our technician.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "support"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "remote_access",
+      "support_impersonation"
+    ]
+  },
+  {
+    "id": "SCN-150",
+    "category": "scam_remote_support",
+    "message": "GooglePay Customer Support: To resolve your pending refund of Rs 4,000, please download AnyDesk app and share the 9-digit code with our technician.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "support"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "remote_access",
+      "support_impersonation"
+    ]
+  },
+  {
+    "id": "SCN-151",
+    "category": "scam_collect_trap",
+    "message": "OLX Buyer: I have sent a payment request on PhonePe. Please accept the collect request and enter your UPI PIN to receive Rs 3000.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "collect_trap",
+      "pin_fraud"
+    ]
+  },
+  {
+    "id": "SCN-152",
+    "category": "scam_collect_trap",
+    "message": "OLX Buyer: I have sent a payment request on PhonePe. Please accept the collect request and enter your UPI PIN to receive Rs 3500.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "collect_trap",
+      "pin_fraud"
+    ]
+  },
+  {
+    "id": "SCN-153",
+    "category": "scam_collect_trap",
+    "message": "OLX Buyer: I have sent a payment request on PhonePe. Please accept the collect request and enter your UPI PIN to receive Rs 4000.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "collect_trap",
+      "pin_fraud"
+    ]
+  },
+  {
+    "id": "SCN-154",
+    "category": "scam_collect_trap",
+    "message": "OLX Buyer: I have sent a payment request on PhonePe. Please accept the collect request and enter your UPI PIN to receive Rs 4500.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "collect_trap",
+      "pin_fraud"
+    ]
+  },
+  {
+    "id": "SCN-155",
+    "category": "scam_collect_trap",
+    "message": "OLX Buyer: I have sent a payment request on PhonePe. Please accept the collect request and enter your UPI PIN to receive Rs 5000.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "collect_trap",
+      "pin_fraud"
+    ]
+  },
+  {
+    "id": "SCN-156",
+    "category": "scam_collect_trap",
+    "message": "OLX Buyer: I have sent a payment request on PhonePe. Please accept the collect request and enter your UPI PIN to receive Rs 5500.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "collect_trap",
+      "pin_fraud"
+    ]
+  },
+  {
+    "id": "SCN-157",
+    "category": "scam_collect_trap",
+    "message": "OLX Buyer: I have sent a payment request on PhonePe. Please accept the collect request and enter your UPI PIN to receive Rs 6000.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "collect_trap",
+      "pin_fraud"
+    ]
+  },
+  {
+    "id": "SCN-158",
+    "category": "scam_collect_trap",
+    "message": "OLX Buyer: I have sent a payment request on PhonePe. Please accept the collect request and enter your UPI PIN to receive Rs 6500.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "collect_trap",
+      "pin_fraud"
+    ]
+  },
+  {
+    "id": "SCN-159",
+    "category": "scam_collect_trap",
+    "message": "OLX Buyer: I have sent a payment request on PhonePe. Please accept the collect request and enter your UPI PIN to receive Rs 7000.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "collect_trap",
+      "pin_fraud"
+    ]
+  },
+  {
+    "id": "SCN-160",
+    "category": "scam_collect_trap",
+    "message": "OLX Buyer: I have sent a payment request on PhonePe. Please accept the collect request and enter your UPI PIN to receive Rs 7500.",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "refund"
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "collect_trap",
+      "pin_fraud"
+    ]
+  },
+  {
+    "id": "SCN-161",
+    "category": "scam_lookalike_vpa",
+    "message": "Pay your monthly electricity bill to official DISCOM account.",
+    "qrPayload": "upi://pay?pa=powerdiscom0@okaxis&pn=Electricity%20Board&am=1420&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "bill",
+      "expectedPayeeVpa": "powerdiscom@okhdfcbank"
+    },
+    "trustedRefs": [
+      {
+        "id": "ref-discom",
+        "label": "Electricity Board",
+        "vpa": "powerdiscom@okhdfcbank",
+        "normalizedVpa": "powerdiscom@okhdfcbank",
+        "payeeName": "State Electricity Board",
+        "hash": "hash-discom",
+        "createdAt": 1000,
+        "isTampered": false
+      }
+    ],
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "lookalike_vpa",
+      "homoglyph"
+    ]
+  },
+  {
+    "id": "SCN-162",
+    "category": "scam_lookalike_vpa",
+    "message": "Pay your monthly electricity bill to official DISCOM account.",
+    "qrPayload": "upi://pay?pa=powerdiscom0@okaxis&pn=Electricity%20Board&am=1420&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "bill",
+      "expectedPayeeVpa": "powerdiscom@okhdfcbank"
+    },
+    "trustedRefs": [
+      {
+        "id": "ref-discom",
+        "label": "Electricity Board",
+        "vpa": "powerdiscom@okhdfcbank",
+        "normalizedVpa": "powerdiscom@okhdfcbank",
+        "payeeName": "State Electricity Board",
+        "hash": "hash-discom",
+        "createdAt": 1000,
+        "isTampered": false
+      }
+    ],
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "lookalike_vpa",
+      "homoglyph"
+    ]
+  },
+  {
+    "id": "SCN-163",
+    "category": "scam_lookalike_vpa",
+    "message": "Pay your monthly electricity bill to official DISCOM account.",
+    "qrPayload": "upi://pay?pa=powerdiscom0@okaxis&pn=Electricity%20Board&am=1420&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "bill",
+      "expectedPayeeVpa": "powerdiscom@okhdfcbank"
+    },
+    "trustedRefs": [
+      {
+        "id": "ref-discom",
+        "label": "Electricity Board",
+        "vpa": "powerdiscom@okhdfcbank",
+        "normalizedVpa": "powerdiscom@okhdfcbank",
+        "payeeName": "State Electricity Board",
+        "hash": "hash-discom",
+        "createdAt": 1000,
+        "isTampered": false
+      }
+    ],
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "lookalike_vpa",
+      "homoglyph"
+    ]
+  },
+  {
+    "id": "SCN-164",
+    "category": "scam_lookalike_vpa",
+    "message": "Pay your monthly electricity bill to official DISCOM account.",
+    "qrPayload": "upi://pay?pa=powerdiscom0@okaxis&pn=Electricity%20Board&am=1420&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "bill",
+      "expectedPayeeVpa": "powerdiscom@okhdfcbank"
+    },
+    "trustedRefs": [
+      {
+        "id": "ref-discom",
+        "label": "Electricity Board",
+        "vpa": "powerdiscom@okhdfcbank",
+        "normalizedVpa": "powerdiscom@okhdfcbank",
+        "payeeName": "State Electricity Board",
+        "hash": "hash-discom",
+        "createdAt": 1000,
+        "isTampered": false
+      }
+    ],
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "lookalike_vpa",
+      "homoglyph"
+    ]
+  },
+  {
+    "id": "SCN-165",
+    "category": "scam_lookalike_vpa",
+    "message": "Pay your monthly electricity bill to official DISCOM account.",
+    "qrPayload": "upi://pay?pa=powerdiscom0@okaxis&pn=Electricity%20Board&am=1420&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "bill",
+      "expectedPayeeVpa": "powerdiscom@okhdfcbank"
+    },
+    "trustedRefs": [
+      {
+        "id": "ref-discom",
+        "label": "Electricity Board",
+        "vpa": "powerdiscom@okhdfcbank",
+        "normalizedVpa": "powerdiscom@okhdfcbank",
+        "payeeName": "State Electricity Board",
+        "hash": "hash-discom",
+        "createdAt": 1000,
+        "isTampered": false
+      }
+    ],
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "lookalike_vpa",
+      "homoglyph"
+    ]
+  },
+  {
+    "id": "SCN-166",
+    "category": "scam_lookalike_vpa",
+    "message": "Pay your monthly electricity bill to official DISCOM account.",
+    "qrPayload": "upi://pay?pa=powerdiscom0@okaxis&pn=Electricity%20Board&am=1420&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "bill",
+      "expectedPayeeVpa": "powerdiscom@okhdfcbank"
+    },
+    "trustedRefs": [
+      {
+        "id": "ref-discom",
+        "label": "Electricity Board",
+        "vpa": "powerdiscom@okhdfcbank",
+        "normalizedVpa": "powerdiscom@okhdfcbank",
+        "payeeName": "State Electricity Board",
+        "hash": "hash-discom",
+        "createdAt": 1000,
+        "isTampered": false
+      }
+    ],
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "lookalike_vpa",
+      "homoglyph"
+    ]
+  },
+  {
+    "id": "SCN-167",
+    "category": "scam_lookalike_vpa",
+    "message": "Pay your monthly electricity bill to official DISCOM account.",
+    "qrPayload": "upi://pay?pa=powerdiscom0@okaxis&pn=Electricity%20Board&am=1420&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "bill",
+      "expectedPayeeVpa": "powerdiscom@okhdfcbank"
+    },
+    "trustedRefs": [
+      {
+        "id": "ref-discom",
+        "label": "Electricity Board",
+        "vpa": "powerdiscom@okhdfcbank",
+        "normalizedVpa": "powerdiscom@okhdfcbank",
+        "payeeName": "State Electricity Board",
+        "hash": "hash-discom",
+        "createdAt": 1000,
+        "isTampered": false
+      }
+    ],
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "lookalike_vpa",
+      "homoglyph"
+    ]
+  },
+  {
+    "id": "SCN-168",
+    "category": "scam_lookalike_vpa",
+    "message": "Pay your monthly electricity bill to official DISCOM account.",
+    "qrPayload": "upi://pay?pa=powerdiscom0@okaxis&pn=Electricity%20Board&am=1420&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "bill",
+      "expectedPayeeVpa": "powerdiscom@okhdfcbank"
+    },
+    "trustedRefs": [
+      {
+        "id": "ref-discom",
+        "label": "Electricity Board",
+        "vpa": "powerdiscom@okhdfcbank",
+        "normalizedVpa": "powerdiscom@okhdfcbank",
+        "payeeName": "State Electricity Board",
+        "hash": "hash-discom",
+        "createdAt": 1000,
+        "isTampered": false
+      }
+    ],
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "lookalike_vpa",
+      "homoglyph"
+    ]
+  },
+  {
+    "id": "SCN-169",
+    "category": "scam_lookalike_vpa",
+    "message": "Pay your monthly electricity bill to official DISCOM account.",
+    "qrPayload": "upi://pay?pa=powerdiscom0@okaxis&pn=Electricity%20Board&am=1420&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "bill",
+      "expectedPayeeVpa": "powerdiscom@okhdfcbank"
+    },
+    "trustedRefs": [
+      {
+        "id": "ref-discom",
+        "label": "Electricity Board",
+        "vpa": "powerdiscom@okhdfcbank",
+        "normalizedVpa": "powerdiscom@okhdfcbank",
+        "payeeName": "State Electricity Board",
+        "hash": "hash-discom",
+        "createdAt": 1000,
+        "isTampered": false
+      }
+    ],
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "lookalike_vpa",
+      "homoglyph"
+    ]
+  },
+  {
+    "id": "SCN-170",
+    "category": "scam_lookalike_vpa",
+    "message": "Pay your monthly electricity bill to official DISCOM account.",
+    "qrPayload": "upi://pay?pa=powerdiscom0@okaxis&pn=Electricity%20Board&am=1420&cu=INR",
+    "userIntent": {
+      "expectedDirection": "outgoing",
+      "expectedAction": "bill",
+      "expectedPayeeVpa": "powerdiscom@okhdfcbank"
+    },
+    "trustedRefs": [
+      {
+        "id": "ref-discom",
+        "label": "Electricity Board",
+        "vpa": "powerdiscom@okhdfcbank",
+        "normalizedVpa": "powerdiscom@okhdfcbank",
+        "payeeName": "State Electricity Board",
+        "hash": "hash-discom",
+        "createdAt": 1000,
+        "isTampered": false
+      }
+    ],
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "lookalike_vpa",
+      "homoglyph"
+    ]
+  },
+  {
+    "id": "SCN-171",
+    "category": "scam_refund_qr_swap",
+    "message": "Special Cashback of Rs 2,500! Scan this QR code in GPay or Paytm to receive the cashback amount straight into your account.",
+    "qrPayload": "upi://pay?pa=reward.cashback0@icici&pn=Cashback%20Reward&am=2500&cu=INR",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "cashback",
+      "expectedAmount": 2500
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "direction_mismatch",
+      "qr_swap"
+    ]
+  },
+  {
+    "id": "SCN-172",
+    "category": "scam_refund_qr_swap",
+    "message": "Special Cashback of Rs 2,500! Scan this QR code in GPay or Paytm to receive the cashback amount straight into your account.",
+    "qrPayload": "upi://pay?pa=reward.cashback1@icici&pn=Cashback%20Reward&am=2500&cu=INR",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "cashback",
+      "expectedAmount": 2500
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "direction_mismatch",
+      "qr_swap"
+    ]
+  },
+  {
+    "id": "SCN-173",
+    "category": "scam_refund_qr_swap",
+    "message": "Special Cashback of Rs 2,500! Scan this QR code in GPay or Paytm to receive the cashback amount straight into your account.",
+    "qrPayload": "upi://pay?pa=reward.cashback2@icici&pn=Cashback%20Reward&am=2500&cu=INR",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "cashback",
+      "expectedAmount": 2500
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "direction_mismatch",
+      "qr_swap"
+    ]
+  },
+  {
+    "id": "SCN-174",
+    "category": "scam_refund_qr_swap",
+    "message": "Special Cashback of Rs 2,500! Scan this QR code in GPay or Paytm to receive the cashback amount straight into your account.",
+    "qrPayload": "upi://pay?pa=reward.cashback3@icici&pn=Cashback%20Reward&am=2500&cu=INR",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "cashback",
+      "expectedAmount": 2500
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "direction_mismatch",
+      "qr_swap"
+    ]
+  },
+  {
+    "id": "SCN-175",
+    "category": "scam_refund_qr_swap",
+    "message": "Special Cashback of Rs 2,500! Scan this QR code in GPay or Paytm to receive the cashback amount straight into your account.",
+    "qrPayload": "upi://pay?pa=reward.cashback4@icici&pn=Cashback%20Reward&am=2500&cu=INR",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "cashback",
+      "expectedAmount": 2500
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "direction_mismatch",
+      "qr_swap"
+    ]
+  },
+  {
+    "id": "SCN-176",
+    "category": "scam_refund_qr_swap",
+    "message": "Special Cashback of Rs 2,500! Scan this QR code in GPay or Paytm to receive the cashback amount straight into your account.",
+    "qrPayload": "upi://pay?pa=reward.cashback5@icici&pn=Cashback%20Reward&am=2500&cu=INR",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "cashback",
+      "expectedAmount": 2500
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "direction_mismatch",
+      "qr_swap"
+    ]
+  },
+  {
+    "id": "SCN-177",
+    "category": "scam_refund_qr_swap",
+    "message": "Special Cashback of Rs 2,500! Scan this QR code in GPay or Paytm to receive the cashback amount straight into your account.",
+    "qrPayload": "upi://pay?pa=reward.cashback6@icici&pn=Cashback%20Reward&am=2500&cu=INR",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "cashback",
+      "expectedAmount": 2500
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "direction_mismatch",
+      "qr_swap"
+    ]
+  },
+  {
+    "id": "SCN-178",
+    "category": "scam_refund_qr_swap",
+    "message": "Special Cashback of Rs 2,500! Scan this QR code in GPay or Paytm to receive the cashback amount straight into your account.",
+    "qrPayload": "upi://pay?pa=reward.cashback7@icici&pn=Cashback%20Reward&am=2500&cu=INR",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "cashback",
+      "expectedAmount": 2500
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "direction_mismatch",
+      "qr_swap"
+    ]
+  },
+  {
+    "id": "SCN-179",
+    "category": "scam_refund_qr_swap",
+    "message": "Special Cashback of Rs 2,500! Scan this QR code in GPay or Paytm to receive the cashback amount straight into your account.",
+    "qrPayload": "upi://pay?pa=reward.cashback8@icici&pn=Cashback%20Reward&am=2500&cu=INR",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "cashback",
+      "expectedAmount": 2500
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "direction_mismatch",
+      "qr_swap"
+    ]
+  },
+  {
+    "id": "SCN-180",
+    "category": "scam_refund_qr_swap",
+    "message": "Special Cashback of Rs 2,500! Scan this QR code in GPay or Paytm to receive the cashback amount straight into your account.",
+    "qrPayload": "upi://pay?pa=reward.cashback9@icici&pn=Cashback%20Reward&am=2500&cu=INR",
+    "userIntent": {
+      "expectedDirection": "incoming",
+      "expectedAction": "cashback",
+      "expectedAmount": 2500
+    },
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "direction_mismatch",
+      "qr_swap"
+    ]
+  },
+  {
+    "id": "SCN-181",
+    "category": "scam_hinglish",
+    "message": "Aapka internship selection ho gaya hai. Registration fee Rs 999 turant pay karein aur apna offer letter unlock karein.",
+    "qrPayload": "upi://pay?pa=internship.reg0@oksbi&pn=Intern%20Desk&am=999&cu=INR",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "hinglish",
+      "job_scam"
+    ]
+  },
+  {
+    "id": "SCN-182",
+    "category": "scam_hinglish",
+    "message": "Aapka internship selection ho gaya hai. Registration fee Rs 1049 turant pay karein aur apna offer letter unlock karein.",
+    "qrPayload": "upi://pay?pa=internship.reg1@oksbi&pn=Intern%20Desk&am=1049&cu=INR",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "hinglish",
+      "job_scam"
+    ]
+  },
+  {
+    "id": "SCN-183",
+    "category": "scam_hinglish",
+    "message": "Aapka internship selection ho gaya hai. Registration fee Rs 1099 turant pay karein aur apna offer letter unlock karein.",
+    "qrPayload": "upi://pay?pa=internship.reg2@oksbi&pn=Intern%20Desk&am=1099&cu=INR",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "hinglish",
+      "job_scam"
+    ]
+  },
+  {
+    "id": "SCN-184",
+    "category": "scam_hinglish",
+    "message": "Aapka internship selection ho gaya hai. Registration fee Rs 1149 turant pay karein aur apna offer letter unlock karein.",
+    "qrPayload": "upi://pay?pa=internship.reg3@oksbi&pn=Intern%20Desk&am=1149&cu=INR",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "hinglish",
+      "job_scam"
+    ]
+  },
+  {
+    "id": "SCN-185",
+    "category": "scam_hinglish",
+    "message": "Aapka internship selection ho gaya hai. Registration fee Rs 1199 turant pay karein aur apna offer letter unlock karein.",
+    "qrPayload": "upi://pay?pa=internship.reg4@oksbi&pn=Intern%20Desk&am=1199&cu=INR",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "hinglish",
+      "job_scam"
+    ]
+  },
+  {
+    "id": "SCN-186",
+    "category": "scam_hinglish",
+    "message": "Aapka internship selection ho gaya hai. Registration fee Rs 1249 turant pay karein aur apna offer letter unlock karein.",
+    "qrPayload": "upi://pay?pa=internship.reg5@oksbi&pn=Intern%20Desk&am=1249&cu=INR",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "hinglish",
+      "job_scam"
+    ]
+  },
+  {
+    "id": "SCN-187",
+    "category": "scam_hinglish",
+    "message": "Aapka internship selection ho gaya hai. Registration fee Rs 1299 turant pay karein aur apna offer letter unlock karein.",
+    "qrPayload": "upi://pay?pa=internship.reg6@oksbi&pn=Intern%20Desk&am=1299&cu=INR",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "hinglish",
+      "job_scam"
+    ]
+  },
+  {
+    "id": "SCN-188",
+    "category": "scam_hinglish",
+    "message": "Aapka internship selection ho gaya hai. Registration fee Rs 1349 turant pay karein aur apna offer letter unlock karein.",
+    "qrPayload": "upi://pay?pa=internship.reg7@oksbi&pn=Intern%20Desk&am=1349&cu=INR",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "hinglish",
+      "job_scam"
+    ]
+  },
+  {
+    "id": "SCN-189",
+    "category": "scam_hinglish",
+    "message": "Aapka internship selection ho gaya hai. Registration fee Rs 1399 turant pay karein aur apna offer letter unlock karein.",
+    "qrPayload": "upi://pay?pa=internship.reg8@oksbi&pn=Intern%20Desk&am=1399&cu=INR",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "hinglish",
+      "job_scam"
+    ]
+  },
+  {
+    "id": "SCN-190",
+    "category": "scam_hinglish",
+    "message": "Aapka internship selection ho gaya hai. Registration fee Rs 1449 turant pay karein aur apna offer letter unlock karein.",
+    "qrPayload": "upi://pay?pa=internship.reg9@oksbi&pn=Intern%20Desk&am=1449&cu=INR",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "hinglish",
+      "job_scam"
+    ]
+  },
+  {
+    "id": "SCN-191",
+    "category": "scam_ocr_garbled",
+    "message": "C0ngratu1ati0ns! Y0u are se1ected f0r internsh1p st1pend Rs 2500O. P@y reg1strat10n fee Rs 999 1mmed1ate1y.",
+    "qrPayload": "upi://pay?pa=garbled.desk0@ybl&pn=Desk&am=999&cu=INR",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "ocr_garbled",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-192",
+    "category": "scam_ocr_garbled",
+    "message": "C0ngratu1ati0ns! Y0u are se1ected f0r internsh1p st1pend Rs 2500O. P@y reg1strat10n fee Rs 999 1mmed1ate1y.",
+    "qrPayload": "upi://pay?pa=garbled.desk1@ybl&pn=Desk&am=999&cu=INR",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "ocr_garbled",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-193",
+    "category": "scam_ocr_garbled",
+    "message": "C0ngratu1ati0ns! Y0u are se1ected f0r internsh1p st1pend Rs 2500O. P@y reg1strat10n fee Rs 999 1mmed1ate1y.",
+    "qrPayload": "upi://pay?pa=garbled.desk2@ybl&pn=Desk&am=999&cu=INR",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "ocr_garbled",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-194",
+    "category": "scam_ocr_garbled",
+    "message": "C0ngratu1ati0ns! Y0u are se1ected f0r internsh1p st1pend Rs 2500O. P@y reg1strat10n fee Rs 999 1mmed1ate1y.",
+    "qrPayload": "upi://pay?pa=garbled.desk3@ybl&pn=Desk&am=999&cu=INR",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "ocr_garbled",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-195",
+    "category": "scam_ocr_garbled",
+    "message": "C0ngratu1ati0ns! Y0u are se1ected f0r internsh1p st1pend Rs 2500O. P@y reg1strat10n fee Rs 999 1mmed1ate1y.",
+    "qrPayload": "upi://pay?pa=garbled.desk4@ybl&pn=Desk&am=999&cu=INR",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "ocr_garbled",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-196",
+    "category": "scam_ocr_garbled",
+    "message": "C0ngratu1ati0ns! Y0u are se1ected f0r internsh1p st1pend Rs 2500O. P@y reg1strat10n fee Rs 999 1mmed1ate1y.",
+    "qrPayload": "upi://pay?pa=garbled.desk5@ybl&pn=Desk&am=999&cu=INR",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "ocr_garbled",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-197",
+    "category": "scam_ocr_garbled",
+    "message": "C0ngratu1ati0ns! Y0u are se1ected f0r internsh1p st1pend Rs 2500O. P@y reg1strat10n fee Rs 999 1mmed1ate1y.",
+    "qrPayload": "upi://pay?pa=garbled.desk6@ybl&pn=Desk&am=999&cu=INR",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "ocr_garbled",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-198",
+    "category": "scam_ocr_garbled",
+    "message": "C0ngratu1ati0ns! Y0u are se1ected f0r internsh1p st1pend Rs 2500O. P@y reg1strat10n fee Rs 999 1mmed1ate1y.",
+    "qrPayload": "upi://pay?pa=garbled.desk7@ybl&pn=Desk&am=999&cu=INR",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "ocr_garbled",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-199",
+    "category": "scam_ocr_garbled",
+    "message": "C0ngratu1ati0ns! Y0u are se1ected f0r internsh1p st1pend Rs 2500O. P@y reg1strat10n fee Rs 999 1mmed1ate1y.",
+    "qrPayload": "upi://pay?pa=garbled.desk8@ybl&pn=Desk&am=999&cu=INR",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "ocr_garbled",
+      "advance_fee"
+    ]
+  },
+  {
+    "id": "SCN-200",
+    "category": "scam_ocr_garbled",
+    "message": "C0ngratu1ati0ns! Y0u are se1ected f0r internsh1p st1pend Rs 2500O. P@y reg1strat10n fee Rs 999 1mmed1ate1y.",
+    "qrPayload": "upi://pay?pa=garbled.desk9@ybl&pn=Desk&am=999&cu=INR",
+    "expectedLevel": "HIGH_RISK",
+    "tags": [
+      "scam",
+      "ocr_garbled",
+      "advance_fee"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+/* frontend/src/design/tokens.css */
+@import '@fontsource-variable/plus-jakarta-sans';
+
+:root {
+  /* Brand Background Layers */
+  --color-bg-primary: #0d0d0d;
+  --color-bg-secondary: #121212;
+  --color-bg-tertiary: #1e293b;
+
+  /* Surfaces & Cards */
+  --color-surface: #131d2e;
+  --color-surface-elevated: #1e293b;
+  --color-surface-muted: #0d1522;
+
+  /* Typography Colors */
+  --color-text-primary: #f8fafc;
+  --color-text-secondary: #94a3b8;
+  --color-text-tertiary: #64748b;
+
+  /* Borders & Dividers */
+  --color-border: #233044;
+  --color-border-subtle: #1e293b;
+
+  /* Primary Interactive CTA Accent (Cyber Sky/Cyan) */
+  --color-accent: #38bdf8;
+  --color-accent-hover: #0284c7;
+  --color-accent-soft: rgba(56, 189, 248, 0.12);
+
+  /* Semantic State Colors */
+  --color-success: #10b981;
+  --color-warning: #f59e0b;
+  --color-danger: #ef4444;
+  --color-info: #38bdf8;
+
+  /* Light Section Band Variations */
+  --color-light-bg: #f8fafc;
+  --color-light-surface: #ffffff;
+  --color-light-border: #e2e8f0;
+  --color-light-text-primary: #0f172a;
+  --color-light-text-secondary: #475569;
+
+  /* Typography Font Families */
+  --font-sans: 'Plus Jakarta Sans Variable', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-bg-primary);
+  color: var(--color-text-primary);
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* Accessible visible focus states */
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+/* Reduced motion preference respect */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  ::before,
+  ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

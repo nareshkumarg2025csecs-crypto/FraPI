@@ -1,0 +1,1690 @@
+[
+  {
+    "text": "Zaroori soochana: Aapka PNB khata freeze kar diya jayega agar aapne aaj KYC link http://kyc-update.online par verify nahi kiya.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Google Pay Reward Alert: You won Rs 1,999 festive scratch card! Scan the QR code sent on WhatsApp to claim your prize money instantly.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Zomato: 1928 is your OTP to sign in. Please do not share this code with anyone.",
+    "label": 0,
+    "category": "legit_otp",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Paytm Reward Alert: You won Rs 1,999 festive scratch card! Scan the QR code sent on WhatsApp to claim your prize money instantly.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Congratulations! You have received a cashback voucher of Rs 1,999 in Paytm. Scan the attached QR code to transfer money directly into your bank account.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "BESCOM official receipt: Payment of Rs 1,420 received for consumer no 829182. Transaction ref 48291829. Thank you.",
+    "label": 0,
+    "category": "legit_utility_bill",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Aapka SBI account suspend hone se bachane ke liye turant apna documents upload karein.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "DHL Express: Your shipment is detained at customs. Verify your delivery address and pay clearance fee http://dhl-clearance-desk.com",
+    "label": 1,
+    "category": "courier_fraud",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Payment of Rs 3367.00 to Zomato via UPI was successful. Transaction ID: TXN928101. Thank you for using HDFC Bank.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "HDFC Bank: INR 2823.00 debited from A/C ending XX1008 on 03-Oct-26 for payment to Amazon Pay. Avail Bal: INR 75,118.00. UPI Ref 4928108.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear user, your KYC documents have expired. To prevent account freeze, click here to verify your identity: http://kyc-sbi-portal.in",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Alert: Aapka Kotak Bank UPI aur netbanking block kar diya gaya hai. Aadhar aur pan card upload karke kyc pura karein http://bank-kyc.xyz",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Alert: Aapka HDFC Bank UPI aur netbanking block kar diya gaya hai. Aadhar aur pan card upload karke kyc pura karein http://bank-kyc.xyz",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Bank sahayak: Aapka transaction fail ho gaya hai, refund ke liye AnyDesk app install karke 9 digit code batayein.",
+    "label": 1,
+    "category": "remote_support",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Payment of Rs 1428.00 to Reliance Fresh via UPI was successful. Transaction ID: TXN928105. Thank you for using Punjab National Bank.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Axis Bank: INR 799.00 debited from A/C ending XX1003 on 03-Oct-26 for payment to Ola. Avail Bal: INR 28,929.00. UPI Ref 4928103.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "AnyDesk install karein aur customer care ko access dein KYC complete karne ke liye.",
+    "label": 1,
+    "category": "remote_support",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Alert: Your debit card and UPI on ICICI Bank will be stopped within 24 hours. Update KYC documents online: http://tinyurl.com/bank-kyc-desk.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Congratulations! You have received a cashback voucher of Rs 2,500 in Google Pay. Scan the attached QR code to transfer money directly into your bank account.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Exclusive reward: Claim Rs 2,500 cashback reward from Google Pay. Click link or scan QR code to credit funds instantly to your linked bank account.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Payment of Rs 3404.00 to Uber via UPI was successful. Transaction ID: TXN928102. Thank you for using ICICI Bank.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Uber: Your trip of Rs 342.50 on 03-Oct-26 has been completed. Payment was charged to your Paytm wallet.",
+    "label": 0,
+    "category": "legit_delivery_receipt",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear user, aapke Paytm Payments Bank khate ki KYC avadhi samapt ho chuki hai. Khata chalu rakhne ke liye abhi KYC karein.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "URGENT: Your Axis Bank netbanking services have been suspended. Complete your e-KYC verification today at http://update-bank-kyc.com or account will be permanently deactivated.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear Customer, your ICICI Bank A/C XX2009 was credited with INR 428.00 via UPI. UPI Ref 3819209. Balance: INR 59,013.00.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Customer support: Download TeamViewer QuickSupport application to complete your biometric verification and unblock your UPI account.",
+    "label": 1,
+    "category": "remote_support",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "URGENT NOTICE from Tata Power: Your power supply will be cut off by 8:00 PM due to pending bill payment. Call electric officer immediately at 9123456789 to update bill.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Aapka PNB account suspend hone se bachane ke liye turant apna documents upload karein.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "BlueDart: Parcel receive karne ke liye link par click karke pending charges clear karein.",
+    "label": 1,
+    "category": "courier_fraud",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Congratulations, Paytm se Rs 2,500 ka instant cashback lene ke liye QR scan karein aur claim karein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear customer, your refund of Rs 2,500 for cancelled order is ready. Open your camera, scan this QR code and enter UPI PIN to receive refund.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Payment of Rs 1474.00 to Zepto via UPI was successful. Transaction ID: TXN928107. Thank you for using SBI.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Electricity disconnection alert: Bill Rs 2450 overdue. Pay immediately via http://electricity-bill-pay.com or call electricity helpline 9811223344.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Zaroori notice: DHBVN dwara aapka power meter disconnect kiya ja raha hai. Fauran sampark karein 9898989898 par.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Tata Sky: Recharge of Rs 350 for subscriber ID 1092837198 is successful. Your next recharge date is 03-Nov-26.",
+    "label": 0,
+    "category": "legit_utility_bill",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear Customer, your ICICI Bank A/C XX2002 was credited with INR 6808.00 via UPI. UPI Ref 3819202. Balance: INR 62,721.00.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Adani Electricity Alert: Bijli cut hone se bachne ke liye abhi apna pending bill clear karein aur bijli sahayak number 9812345678 par phone karein.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Zaroori notice: Adani Electricity dwara aapka power meter disconnect kiya ja raha hai. Fauran sampark karein 9898989898 par.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Alert: Your debit card and UPI on HDFC Bank will be stopped within 24 hours. Update KYC documents online: http://tinyurl.com/bank-kyc-desk.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Badhai ho! Aapko Paytm par Rs 2,500 ka cashback mila hai. Scan karein QR code aur direct bank khate mein paise payein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "URGENT NOTICE from UPPCL: Your power supply will be cut off by 8:00 PM due to pending bill payment. Call electric officer immediately at 9123456789 to update bill.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Aapka ICICI Bank account suspend hone se bachane ke liye turant apna documents upload karein.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Exclusive reward: Claim Rs 1,999 cashback reward from Google Pay. Click link or scan QR code to credit funds instantly to your linked bank account.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "HDFC Bank: INR 3367.00 debited from A/C ending XX1001 on 03-Oct-26 for payment to Zomato. Avail Bal: INR 85,591.00. UPI Ref 4928101.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Payment of Rs 2526.00 to Indian Oil via UPI was successful. Transaction ID: TXN9281010. Thank you for using Axis Bank.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear customer, your HDFC Bank account will be blocked today due to pending KYC. Click http://bit.ly/kyc-update-now to submit Aadhaar and PAN immediately.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "ICICI Bank: INR 214.00 debited from A/C ending XX1009 on 03-Oct-26 for payment to Flipkart. Avail Bal: INR 58,585.00. UPI Ref 4928109.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Badhai ho! Aapko Paytm par Rs 1,999 ka cashback mila hai. Scan karein QR code aur direct bank khate mein paise payein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Alert: Aapka PNB UPI aur netbanking block kar diya gaya hai. Aadhar aur pan card upload karke kyc pura karein http://bank-kyc.xyz",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear Customer, your Axis Bank A/C XX2010 was credited with INR 5052.00 via UPI. UPI Ref 38192010. Balance: INR 22,689.00.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Congratulations! You have received a cashback voucher of Rs 1,999 in PhonePe. Scan the attached QR code to transfer money directly into your bank account.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Aapke khate mein 2,500 rupaye credit hone ke liye ye QR code scan karein aur collect approve karein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Your PhonePe registration OTP is 829104. Never share this OTP or your UPI PIN with anyone.",
+    "label": 0,
+    "category": "legit_otp",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Congratulations, PhonePe se Rs 2,500 ka instant cashback lene ke liye QR scan karein aur claim karein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Bank Notice: Your SBI account is on hold. Kindly verify your KYC details immediately to resume incoming and outgoing payments.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear user, aapke Kotak Bank khate ki KYC avadhi samapt ho chuki hai. Khata chalu rakhne ke liye abhi KYC karein.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Your ICICI Bank OTP for login authentication is 192837. Do not disclose it to anyone even if caller claims to be bank executive.",
+    "label": 0,
+    "category": "legit_otp",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Your Tata Power electricity connection line is scheduled for termination today. To avoid disconnection, call bill desk manager at 9988776655.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Punjab National Bank: INR 1428.00 debited from A/C ending XX1005 on 03-Oct-26 for payment to Reliance Fresh. Avail Bal: INR 86,793.00. UPI Ref 4928105.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Priya grahak, aapka SBI account aaj raat band ho jayega kyunki KYC update nahi hai. Turant link par click karein http://sbi-kyc-verify.in",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Alert: Aapka Paytm Payments Bank UPI aur netbanking block kar diya gaya hai. Aadhar aur pan card upload karke kyc pura karein http://bank-kyc.xyz",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Account verification pending: Send Re 1 to test-pay@okaxis to unblock your pending transfer.",
+    "label": 1,
+    "category": "send_1_rupee",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Exclusive reward: Claim Rs 2,500 cashback reward from Paytm. Click link or scan QR code to credit funds instantly to your linked bank account.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Congratulations, Paytm se Rs 1,999 ka instant cashback lene ke liye QR scan karein aur claim karein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Bank of Baroda: INR 3472.00 debited from A/C ending XX1013 on 03-Oct-26 for payment to Chai Point. Avail Bal: INR 61,873.00. UPI Ref 49281013.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Alert: Your debit card and UPI on Axis Bank will be stopped within 24 hours. Update KYC documents online: http://tinyurl.com/bank-kyc-desk.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Bank of Baroda: INR 2289.00 debited from A/C ending XX1006 on 03-Oct-26 for payment to Blinkit. Avail Bal: INR 37,303.00. UPI Ref 4928106.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear customer, your Kotak Bank account will be blocked today due to pending KYC. Click http://bit.ly/kyc-update-now to submit Aadhaar and PAN immediately.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Kripya Play Store se TeamViewer download karein taaki hamare technical officer aapka account thik kar sakein.",
+    "label": 1,
+    "category": "remote_support",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Alert: Your debit card and UPI on SBI will be stopped within 24 hours. Update KYC documents online: http://tinyurl.com/bank-kyc-desk.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "5000 rupaye lene ke liye apne Google Pay par aayi collect request ko approve karein aur PIN darj karein.",
+    "label": 1,
+    "category": "collect_request",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Maine OLX par saman khareedne ke liye PhonePe par collect request bheja hai. Aap Pay daba kar UPI PIN daalein taaki paise aapke khate mein aa jayein.",
+    "label": 1,
+    "category": "collect_request",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Your WBSEDCL electricity connection line is scheduled for termination today. To avoid disconnection, call bill desk manager at 9988776655.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Payment of Rs 2823.00 to Amazon Pay via UPI was successful. Transaction ID: TXN928108. Thank you for using HDFC Bank.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "To receive payment of Rs 5000 from customer, please accept the UPI collect request received on your Google Pay. Money will be credited once you authorize.",
+    "label": 1,
+    "category": "collect_request",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear Customer, your HDFC Bank A/C XX2001 was credited with INR 6734.00 via UPI. UPI Ref 3819201. Balance: INR 92,325.00.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "URGENT: Your Kotak Bank netbanking services have been suspended. Complete your e-KYC verification today at http://update-bank-kyc.com or account will be permanently deactivated.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "PhonePe Reward Alert: You won Rs 2,500 festive scratch card! Scan the QR code sent on WhatsApp to claim your prize money instantly.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "India Post: Aapka parcel delivery address galat hone ki wajah se ruka hua hai. Rs 25 ka re-delivery charge bharein http://post-address-update.in",
+    "label": 1,
+    "category": "courier_fraud",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Your Adani Electricity electricity connection line is scheduled for termination today. To avoid disconnection, call bill desk manager at 9988776655.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Your UPPCL electricity connection line is scheduled for termination today. To avoid disconnection, call bill desk manager at 9988776655.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Your Mahavitaran electricity connection line is scheduled for termination today. To avoid disconnection, call bill desk manager at 9988776655.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "URGENT: Your PNB netbanking services have been suspended. Complete your e-KYC verification today at http://update-bank-kyc.com or account will be permanently deactivated.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear customer, your credit card reward points worth Rs 9850 are expiring today. Redeem cash in bank: http://redeem-reward-sbi.com",
+    "label": 1,
+    "category": "reward_points",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Bank Notice: Your HDFC Bank account is on hold. Kindly verify your KYC details immediately to resume incoming and outgoing payments.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Badhai ho! Aapko Google Pay par Rs 1,999 ka cashback mila hai. Scan karein QR code aur direct bank khate mein paise payein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear Customer, your SBI A/C XX2014 was credited with INR 662.00 via UPI. UPI Ref 38192014. Balance: INR 58,624.00.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear consumer, your electricity power will be disconnected tonight at 9:30 PM from the electricity office because your previous month bill was unpaid. Please immediately contact our power officer at 9876543210.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Alert: Aapka Axis Bank UPI aur netbanking block kar diya gaya hai. Aadhar aur pan card upload karke kyc pura karein http://bank-kyc.xyz",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear customer, your SBI account will be blocked today due to pending KYC. Click http://bit.ly/kyc-update-now to submit Aadhaar and PAN immediately.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Exclusive reward: Claim Rs 2,500 cashback reward from BHIM. Click link or scan QR code to credit funds instantly to your linked bank account.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "829103 is your Axis Bank authentication code. Sharing this OTP may result in loss of funds. Bank never calls for OTP.",
+    "label": 0,
+    "category": "legit_otp",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Payment of Rs 799.00 to Ola via UPI was successful. Transaction ID: TXN928103. Thank you for using Axis Bank.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear customer, your PNB account will be blocked today due to pending KYC. Click http://bit.ly/kyc-update-now to submit Aadhaar and PAN immediately.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Badhai ho! Aapka number KBC lottery mein Rs 25 lakh jeeta hai. Lottery manager se WhatsApp par sampark karein.",
+    "label": 1,
+    "category": "lottery",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Apne account mein advance payment lene ke liye request ko authorize karein.",
+    "label": 1,
+    "category": "collect_request",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Mahavitaran Alert: Bijli cut hone se bachne ke liye abhi apna pending bill clear karein aur bijli sahayak number 9812345678 par phone karein.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear user, aapke Axis Bank khate ki KYC avadhi samapt ho chuki hai. Khata chalu rakhne ke liye abhi KYC karein.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Exclusive reward: Claim Rs 1,999 cashback reward from Paytm. Click link or scan QR code to credit funds instantly to your linked bank account.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "BHIM Reward Alert: You won Rs 1,999 festive scratch card! Scan the QR code sent on WhatsApp to claim your prize money instantly.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Aapke khate mein 1,999 rupaye credit hone ke liye ye QR code scan karein aur collect approve karein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Badhai ho! Aapko PhonePe par Rs 2,500 ka cashback mila hai. Scan karein QR code aur direct bank khate mein paise payein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Payment of Rs 2072.00 to HP Petrol Pump via UPI was successful. Transaction ID: TXN9281011. Thank you for using Kotak Bank.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Badhai ho! Aapko PhonePe par Rs 1,999 ka cashback mila hai. Scan karein QR code aur direct bank khate mein paise payein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Payment of Rs 2289.00 to Blinkit via UPI was successful. Transaction ID: TXN928106. Thank you for using Bank of Baroda.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Blinkit: Order delivered in 9 minutes! Fresh veggies and milk delivered to your door. Thanks for shopping.",
+    "label": 0,
+    "category": "legit_delivery_receipt",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Priya grahak, aapka Axis Bank account aaj raat band ho jayega kyunki KYC update nahi hai. Turant link par click karein http://sbi-kyc-verify.in",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Congratulations! You have received a cashback voucher of Rs 1,999 in Cred. Scan the attached QR code to transfer money directly into your bank account.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Amazon: Your package with order #402-8192819-2819281 will be delivered today by 7 PM. Share OTP with delivery associate.",
+    "label": 0,
+    "category": "legit_delivery_receipt",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Exclusive reward: Claim Rs 1,999 cashback reward from PhonePe. Click link or scan QR code to credit funds instantly to your linked bank account.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Alert: Your debit card and UPI on Kotak Bank will be stopped within 24 hours. Update KYC documents online: http://tinyurl.com/bank-kyc-desk.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Paise fas gaye hain? Paytm customer care se baat karne ke liye turant call karein 9871234567 par.",
+    "label": 1,
+    "category": "fake_customer_care",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "To verify your UPI ID and activate Rs 10000 instant credit limit, send Rs 1 to verify.merchant@upi now.",
+    "label": 1,
+    "category": "send_1_rupee",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "URGENT NOTICE from Adani Electricity: Your power supply will be cut off by 8:00 PM due to pending bill payment. Call electric officer immediately at 9123456789 to update bill.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Badhai ho! Aapko Cred par Rs 2,500 ka cashback mila hai. Scan karein QR code aur direct bank khate mein paise payein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Payment of Rs 1477.00 to DMart via UPI was successful. Transaction ID: TXN928104. Thank you for using Kotak Bank.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Exclusive reward: Claim Rs 2,500 cashback reward from Cred. Click link or scan QR code to credit funds instantly to your linked bank account.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Aapka parcel delivery ke liye ready hai, kripya 10 rupaye ka address charge pay karein.",
+    "label": 1,
+    "category": "courier_fraud",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Your OTP for login to HDFC Bank NetBanking is 592819. Do NOT share this OTP with anyone, bank never asks for OTP or password.",
+    "label": 0,
+    "category": "legit_otp",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear customer, your ICICI Bank account will be blocked today due to pending KYC. Click http://bit.ly/kyc-update-now to submit Aadhaar and PAN immediately.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "BHIM Reward Alert: You won Rs 2,500 festive scratch card! Scan the QR code sent on WhatsApp to claim your prize money instantly.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Congratulations, Google Pay se Rs 2,500 ka instant cashback lene ke liye QR scan karein aur claim karein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Kotak Bank: INR 2072.00 debited from A/C ending XX1011 on 03-Oct-26 for payment to HP Petrol Pump. Avail Bal: INR 17,367.00. UPI Ref 49281011.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Zomato: Rajesh has picked up your order from Haldiram. He will reach your doorstep by 8:45 PM. Enjoy your meal!",
+    "label": 0,
+    "category": "legit_delivery_receipt",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear Customer, your Punjab National Bank A/C XX2005 was credited with INR 2856.00 via UPI. UPI Ref 3819205. Balance: INR 89,649.00.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Exclusive reward: Claim Rs 1,999 cashback reward from Cred. Click link or scan QR code to credit funds instantly to your linked bank account.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "URGENT NOTICE from BESCOM: Your power supply will be cut off by 8:00 PM due to pending bill payment. Call electric officer immediately at 9123456789 to update bill.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Cred Reward Alert: You won Rs 1,999 festive scratch card! Scan the QR code sent on WhatsApp to claim your prize money instantly.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "SBI: INR 331.00 debited from A/C ending XX1014 on 03-Oct-26 for payment to Swiggy. Avail Bal: INR 57,962.00. UPI Ref 49281014.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Axis Bank: INR 2526.00 debited from A/C ending XX1010 on 03-Oct-26 for payment to Indian Oil. Avail Bal: INR 17,637.00. UPI Ref 49281010.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Badhai ho! Aapko BHIM par Rs 1,999 ka cashback mila hai. Scan karein QR code aur direct bank khate mein paise payein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Aapka 2,500 rupaye ka refund approved ho gaya hai. QR code scan karein aur apna UPI PIN enter karke paise prapt karein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Badhai ho! Aapko Cred par Rs 1,999 ka cashback mila hai. Scan karein QR code aur direct bank khate mein paise payein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Aapka Paytm Payments Bank account suspend hone se bachane ke liye turant apna documents upload karein.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "BigBasket: Your grocery delivery has been completed. Bill amount Rs 840 paid online. Download invoice from your account.",
+    "label": 0,
+    "category": "legit_delivery_receipt",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear Customer, your Axis Bank A/C XX2003 was credited with INR 1598.00 via UPI. UPI Ref 3819203. Balance: INR 30,527.00.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Aapka Axis Bank account suspend hone se bachane ke liye turant apna documents upload karein.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "OTP for login to your Swiggy account is 482910. Do not share this OTP with delivery partner or anyone else.",
+    "label": 0,
+    "category": "legit_otp",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Aapka 1,999 rupaye ka refund approved ho gaya hai. QR code scan karein aur apna UPI PIN enter karke paise prapt karein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Congratulations! You have received a cashback voucher of Rs 2,500 in Paytm. Scan the attached QR code to transfer money directly into your bank account.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Army officer buyer: I have sent a PhonePe collect request of Rs 15,000 for your OLX furniture. Please click Pay and enter UPI PIN to receive money in your account.",
+    "label": 1,
+    "category": "collect_request",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Congratulations, BHIM se Rs 1,999 ka instant cashback lene ke liye QR scan karein aur claim karein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Aapka Kotak Bank account suspend hone se bachane ke liye turant apna documents upload karein.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear user, aapke HDFC Bank khate ki KYC avadhi samapt ho chuki hai. Khata chalu rakhne ke liye abhi KYC karein.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "India Post: Your package IND92819827 could not be delivered due to wrong house address. Please pay redelivery fee Rs 25 at http://indiapost-parcel-delivery.com",
+    "label": 1,
+    "category": "courier_fraud",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Congratulations, Google Pay se Rs 1,999 ka instant cashback lene ke liye QR scan karein aur claim karein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "URGENT NOTICE from Mahavitaran: Your power supply will be cut off by 8:00 PM due to pending bill payment. Call electric officer immediately at 9123456789 to update bill.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear Customer, your Bank of Baroda A/C XX2013 was credited with INR 6944.00 via UPI. UPI Ref 38192013. Balance: INR 68,817.00.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Congratulations! You have won Rs 25,00,000 in Kaun Banega Crorepati KBC Lucky Draw. Contact WhatsApp manager Rana Pratap at 9876543210 to claim lottery.",
+    "label": 1,
+    "category": "lottery",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Priya grahak, aapka HDFC Bank account aaj raat band ho jayega kyunki KYC update nahi hai. Turant link par click karein http://sbi-kyc-verify.in",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Zaroori notice: Mahavitaran dwara aapka power meter disconnect kiya ja raha hai. Fauran sampark karein 9898989898 par.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear Customer, your HDFC Bank A/C XX2008 was credited with INR 5646.00 via UPI. UPI Ref 3819208. Balance: INR 80,764.00.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Congratulations! You have received a cashback voucher of Rs 1,999 in BHIM. Scan the attached QR code to transfer money directly into your bank account.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "BESCOM Alert: Bijli cut hone se bachne ke liye abhi apna pending bill clear karein aur bijli sahayak number 9812345678 par phone karein.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "DTDC alert: Address incomplete for parcel #82910. Pay Rs 15 updating charge to reschedule delivery.",
+    "label": 1,
+    "category": "courier_fraud",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Exclusive reward: Claim Rs 2,500 cashback reward from PhonePe. Click link or scan QR code to credit funds instantly to your linked bank account.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Payment of Rs 214.00 to Flipkart via UPI was successful. Transaction ID: TXN928109. Thank you for using ICICI Bank.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Ola: Invoice for CRN8291092. Total fare Rs 210 paid via UPI. We hope you had a pleasant ride.",
+    "label": 0,
+    "category": "legit_delivery_receipt",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Congratulations, Cred se Rs 1,999 ka instant cashback lene ke liye QR scan karein aur claim karein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear user, aapke PNB khate ki KYC avadhi samapt ho chuki hai. Khata chalu rakhne ke liye abhi KYC karein.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear seller, approve the payment collect request in Paytm to confirm receipt of funds.",
+    "label": 1,
+    "category": "collect_request",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Aapka HDFC Bank account suspend hone se bachane ke liye turant apna documents upload karein.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Priya upbhokta, aapki bijli connection aaj raat 9:30 baje cut kar di jayegi kyunki pichla bill jama nahi hua hai. Turant hamare bijli adhikari 9876543210 se sampark karein.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Zaroori soochana: Aapka Kotak Bank khata freeze kar diya jayega agar aapne aaj KYC link http://kyc-update.online par verify nahi kiya.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "WBSEDCL Alert: Bijli cut hone se bachne ke liye abhi apna pending bill clear karein aur bijli sahayak number 9812345678 par phone karein.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "DHBVN Alert: Bijli cut hone se bachne ke liye abhi apna pending bill clear karein aur bijli sahayak number 9812345678 par phone karein.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Priya grahak, aapka PNB account aaj raat band ho jayega kyunki KYC update nahi hai. Turant link par click karein http://sbi-kyc-verify.in",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Your DHBVN electricity connection line is scheduled for termination today. To avoid disconnection, call bill desk manager at 9988776655.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Your debit card refund is stuck. Download RustDesk or AnyDesk so our technical agent can guide you to receive your refund.",
+    "label": 1,
+    "category": "remote_support",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Congratulations, PhonePe se Rs 1,999 ka instant cashback lene ke liye QR scan karein aur claim karein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "SBI: INR 1474.00 debited from A/C ending XX1007 on 03-Oct-26 for payment to Zepto. Avail Bal: INR 9,485.00. UPI Ref 4928107.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "ICICI Bank: INR 3404.00 debited from A/C ending XX1002 on 03-Oct-26 for payment to Uber. Avail Bal: INR 55,913.00. UPI Ref 4928102.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear user, aapke ICICI Bank khate ki KYC avadhi samapt ho chuki hai. Khata chalu rakhne ke liye abhi KYC karein.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Punjab National Bank: INR 1636.00 debited from A/C ending XX1012 on 03-Oct-26 for payment to Starbucks. Avail Bal: INR 35,228.00. UPI Ref 49281012.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Thank you for shopping at D-Mart! Total amount paid INR 1,299.00 via UPI on 03-Oct-26. Bill no: INV-82910. Visit again!",
+    "label": 0,
+    "category": "legit_delivery_receipt",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Tata Power Alert: Bijli cut hone se bachne ke liye abhi apna pending bill clear karein aur bijli sahayak number 9812345678 par phone karein.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Bank Notice: Your Paytm Payments Bank account is on hold. Kindly verify your KYC details immediately to resume incoming and outgoing payments.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "BlueDart Courier: Package on hold. Pay pending duty fee of Rs 48 immediately at http://bluedart-track-support.in to avoid return to sender.",
+    "label": 1,
+    "category": "courier_fraud",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear Customer, your Bank of Baroda A/C XX2006 was credited with INR 4578.00 via UPI. UPI Ref 3819206. Balance: INR 41,881.00.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Zaroori soochana: Aapka HDFC Bank khata freeze kar diya jayega agar aapne aaj KYC link http://kyc-update.online par verify nahi kiya.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Urgent customer support: For Google Pay or PhonePe payment refund call toll free 1800-892-0192 or mobile helpline 9123456789 immediately.",
+    "label": 1,
+    "category": "fake_customer_care",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Bank Notice: Your Kotak Bank account is on hold. Kindly verify your KYC details immediately to resume incoming and outgoing payments.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Congratulations! You have received a cashback voucher of Rs 2,500 in BHIM. Scan the attached QR code to transfer money directly into your bank account.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "URGENT NOTICE from DHBVN: Your power supply will be cut off by 8:00 PM due to pending bill payment. Call electric officer immediately at 9123456789 to update bill.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Customer ne payment bhej diya hai, collect request accept karein aur paise receive karein.",
+    "label": 1,
+    "category": "collect_request",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear customer, our bank executive needs to resolve your failed transaction. Kindly install AnyDesk app from Play Store and share the 9-digit code.",
+    "label": 1,
+    "category": "remote_support",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Zaroori notice: Tata Power dwara aapka power meter disconnect kiya ja raha hai. Fauran sampark karein 9898989898 par.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Congratulations, Cred se Rs 2,500 ka instant cashback lene ke liye QR scan karein aur claim karein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "URGENT: Your ICICI Bank netbanking services have been suspended. Complete your e-KYC verification today at http://update-bank-kyc.com or account will be permanently deactivated.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Congratulations! You have received a cashback voucher of Rs 1,999 in Google Pay. Scan the attached QR code to transfer money directly into your bank account.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Bank Notice: Your Axis Bank account is on hold. Kindly verify your KYC details immediately to resume incoming and outgoing payments.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Congratulations! You have received a cashback voucher of Rs 2,500 in Cred. Scan the attached QR code to transfer money directly into your bank account.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Congratulations! You have received a cashback voucher of Rs 2,500 in PhonePe. Scan the attached QR code to transfer money directly into your bank account.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Aapke SBI credit card points expire ho rahe hain. Points ko cash mein badalne ke liye link par click karein.",
+    "label": 1,
+    "category": "reward_points",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "URGENT: Your HDFC Bank netbanking services have been suspended. Complete your e-KYC verification today at http://update-bank-kyc.com or account will be permanently deactivated.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Your BESCOM electricity connection line is scheduled for termination today. To avoid disconnection, call bill desk manager at 9988776655.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Your Swiggy order from Biryani Blues is arriving in 15 mins. Track your delivery partner Ramesh at https://swiggy.com/order/82910",
+    "label": 0,
+    "category": "legit_delivery_receipt",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "URGENT NOTICE from WBSEDCL: Your power supply will be cut off by 8:00 PM due to pending bill payment. Call electric officer immediately at 9123456789 to update bill.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Zaroori notice: WBSEDCL dwara aapka power meter disconnect kiya ja raha hai. Fauran sampark karein 9898989898 par.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Alert: Aapka ICICI Bank UPI aur netbanking block kar diya gaya hai. Aadhar aur pan card upload karke kyc pura karein http://bank-kyc.xyz",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear customer, your refund of Rs 1,999 for cancelled order is ready. Open your camera, scan this QR code and enter UPI PIN to receive refund.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Payment of Rs 1636.00 to Starbucks via UPI was successful. Transaction ID: TXN9281012. Thank you for using Punjab National Bank.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Flipkart: Out for delivery! Your order containing Wireless Headphones is out for delivery with agent Manoj.",
+    "label": 0,
+    "category": "legit_delivery_receipt",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "UPPCL Alert: Bijli cut hone se bachne ke liye abhi apna pending bill clear karein aur bijli sahayak number 9812345678 par phone karein.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear Customer, 381920 is OTP to authorize payment of INR 850.00 at Swiggy. Do NOT share OTP/CVV.",
+    "label": 0,
+    "category": "legit_otp",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear Customer, your Punjab National Bank A/C XX2012 was credited with INR 3272.00 via UPI. UPI Ref 38192012. Balance: INR 38,500.00.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Alert: Your debit card and UPI on PNB will be stopped within 24 hours. Update KYC documents online: http://tinyurl.com/bank-kyc-desk.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear Customer, your SBI A/C XX2007 was credited with INR 2948.00 via UPI. UPI Ref 3819207. Balance: INR 12,433.00.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Zaroori notice: UPPCL dwara aapka power meter disconnect kiya ja raha hai. Fauran sampark karein 9898989898 par.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Payment of Rs 3472.00 to Chai Point via UPI was successful. Transaction ID: TXN9281013. Thank you for using Bank of Baroda.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Part time job opportunity: Earn Rs 3000 to Rs 8000 daily by liking YouTube videos and rating hotels on Google Maps. Contact HR on Telegram @EarnDailyOnline.",
+    "label": 1,
+    "category": "job_task",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Bank Notice: Your PNB account is on hold. Kindly verify your KYC details immediately to resume incoming and outgoing payments.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Kotak Bank: INR 1477.00 debited from A/C ending XX1004 on 03-Oct-26 for payment to DMart. Avail Bal: INR 12,049.00. UPI Ref 4928104.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "492019 is your Google verification code. Never share this code with anybody.",
+    "label": 0,
+    "category": "legit_otp",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "URGENT: Your SBI netbanking services have been suspended. Complete your e-KYC verification today at http://update-bank-kyc.com or account will be permanently deactivated.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear Customer, your Kotak Bank A/C XX2004 was credited with INR 2954.00 via UPI. UPI Ref 3819204. Balance: INR 15,003.00.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Zaroori notice: BESCOM dwara aapka power meter disconnect kiya ja raha hai. Fauran sampark karein 9898989898 par.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Badhai ho! Aapko BHIM par Rs 2,500 ka cashback mila hai. Scan karein QR code aur direct bank khate mein paise payein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "PhonePe Reward Alert: You won Rs 1,999 festive scratch card! Scan the QR code sent on WhatsApp to claim your prize money instantly.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "URGENT: Your Paytm Payments Bank netbanking services have been suspended. Complete your e-KYC verification today at http://update-bank-kyc.com or account will be permanently deactivated.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Google Pay Reward Alert: You won Rs 2,500 festive scratch card! Scan the QR code sent on WhatsApp to claim your prize money instantly.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Payment of Rs 331.00 to Swiggy via UPI was successful. Transaction ID: TXN9281014. Thank you for using SBI.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Ghar baithe kamayein 2000 se 5000 rupaye daily. Bas YouTube videos like karein aur screenshot bhejein. Telegram par message karein.",
+    "label": 1,
+    "category": "job_task",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Refund pane ke liye QuickSupport application download karein aur screen share karein.",
+    "label": 1,
+    "category": "remote_support",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Apna account verify karne ke liye hamare UPI ID par 1 rupya bhejein. Turant 500 rupaye cashback milega.",
+    "label": 1,
+    "category": "send_1_rupee",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Priya grahak, aapka Kotak Bank account aaj raat band ho jayega kyunki KYC update nahi hai. Turant link par click karein http://sbi-kyc-verify.in",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Exclusive reward: Claim Rs 1,999 cashback reward from BHIM. Click link or scan QR code to credit funds instantly to your linked bank account.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Jio: Your 1.5 GB daily high speed data has expired. Recharge with 1 GB data booster pack at Rs 15 using MyJio app.",
+    "label": 0,
+    "category": "legit_utility_bill",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Payment received: A collect request of Rs 8500 is pending on BHIM. Approve the request now to claim your buyer's transfer.",
+    "label": 1,
+    "category": "collect_request",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Paytm Reward Alert: You won Rs 2,500 festive scratch card! Scan the QR code sent on WhatsApp to claim your prize money instantly.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Priya grahak, aapka Paytm Payments Bank account aaj raat band ho jayega kyunki KYC update nahi hai. Turant link par click karein http://sbi-kyc-verify.in",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear customer, your Paytm Payments Bank account will be blocked today due to pending KYC. Click http://bit.ly/kyc-update-now to submit Aadhaar and PAN immediately.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Priya grahak, aapka ICICI Bank account aaj raat band ho jayega kyunki KYC update nahi hai. Turant link par click karein http://sbi-kyc-verify.in",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear user, aapke SBI khate ki KYC avadhi samapt ho chuki hai. Khata chalu rakhne ke liye abhi KYC karein.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Zaroori soochana: Aapka SBI khata freeze kar diya jayega agar aapne aaj KYC link http://kyc-update.online par verify nahi kiya.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Badhai ho! Aapko Google Pay par Rs 2,500 ka cashback mila hai. Scan karein QR code aur direct bank khate mein paise payein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Congratulations, BHIM se Rs 2,500 ka instant cashback lene ke liye QR scan karein aur claim karein.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Bank Notice: Your ICICI Bank account is on hold. Kindly verify your KYC details immediately to resume incoming and outgoing payments.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Cred Reward Alert: You won Rs 2,500 festive scratch card! Scan the QR code sent on WhatsApp to claim your prize money instantly.",
+    "label": 1,
+    "category": "refund_qr",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear Customer, your Kotak Bank A/C XX2011 was credited with INR 4144.00 via UPI. UPI Ref 38192011. Balance: INR 21,511.00.",
+    "label": 0,
+    "category": "legit_bank_alert",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear Customer, your Airtel broadband bill for account 080482910 is due on 10-Oct-26. Pay easily using Airtel Thanks app.",
+    "label": 0,
+    "category": "legit_utility_bill",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Courier Alert: Aapka consignment hold par hai. Turant delivery charge pay karke apna parcel release karwayein.",
+    "label": 1,
+    "category": "courier_fraud",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Zaroori soochana: Aapka ICICI Bank khata freeze kar diya jayega agar aapne aaj KYC link http://kyc-update.online par verify nahi kiya.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "948201 is your one time password (OTP) for transaction of INR 1,450.00 at Amazon India. Do not share your OTP with anyone.",
+    "label": 0,
+    "category": "legit_otp",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Zaroori soochana: Aapka Axis Bank khata freeze kar diya jayega agar aapne aaj KYC link http://kyc-update.online par verify nahi kiya.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Alert: Your debit card and UPI on Paytm Payments Bank will be stopped within 24 hours. Update KYC documents online: http://tinyurl.com/bank-kyc-desk.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Zaroori soochana: Aapka Paytm Payments Bank khata freeze kar diya jayega agar aapne aaj KYC link http://kyc-update.online par verify nahi kiya.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Aapka bijli connection kaat diya jayega. Fauran call karein bijli vibhag officer ko aur bill update karwayein.",
+    "label": 1,
+    "category": "electricity_disconnection",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear Customer, OTP for registering UPI on SBI YONO is 382910. Valid for 5 mins. Never share OTP or UPI PIN with any person.",
+    "label": 0,
+    "category": "legit_otp",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Alert: Aapka SBI UPI aur netbanking block kar diya gaya hai. Aadhar aur pan card upload karke kyc pura karein http://bank-kyc.xyz",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "hi_en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Dear customer, your Axis Bank account will be blocked today due to pending KYC. Click http://bit.ly/kyc-update-now to submit Aadhaar and PAN immediately.",
+    "label": 1,
+    "category": "kyc_expiry",
+    "lang": "en",
+    "source": "synthetic_in"
+  },
+  {
+    "text": "Install QuickSupport from http://support-apk-download.com to allow our customer care officer to update your mobile banking.",
+    "label": 1,
+    "category": "remote_support",
+    "lang": "en",
+    "source": "synthetic_in"
+  }
+]

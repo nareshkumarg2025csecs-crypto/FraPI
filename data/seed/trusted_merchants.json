@@ -1,0 +1,27 @@
+[
+  {
+    "label": "Swiggy",
+    "vpa": "swiggy@icici",
+    "payeeName": "Bundl Technologies Pvt Ltd"
+  },
+  {
+    "label": "Zomato",
+    "vpa": "zomato@hdfcbank",
+    "payeeName": "Zomato Limited"
+  },
+  {
+    "label": "BESCOM Electricity",
+    "vpa": "bescom@kbl",
+    "payeeName": "BESCOM"
+  },
+  {
+    "label": "Tata Sky",
+    "vpa": "tatasky@tatasky",
+    "payeeName": "Tata Play Ltd"
+  },
+  {
+    "label": "Flipkart",
+    "vpa": "flipkart@axisbank",
+    "payeeName": "Flipkart Internet Private Limited"
+  }
+]

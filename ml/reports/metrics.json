@@ -1,0 +1,107 @@
+{
+  "chosen_variant": "Variant A (SMS + synthetic_in)",
+  "choice_reason": "Variant A achieved higher recall-emphasized performance (F2: 0.9332 vs 0.8893, Recall: 0.9250 vs 0.8938) on the mobile held-out set, avoiding vocabulary dilution from email structures.",
+  "best_C": 5.0,
+  "test_samples": 4402,
+  "overall": {
+    "precision": 0.63967,
+    "recall": 0.54829,
+    "f1": 0.59047,
+    "roc_auc": 0.73971,
+    "pr_auc": 0.67748,
+    "confusion_matrix": {
+      "tn": 1800,
+      "fp": 614,
+      "fn": 898,
+      "tp": 1090
+    }
+  },
+  "variant_comparison": {
+    "variant_a_sms_synthetic": {
+      "precision": 0.9673,
+      "recall": 0.925,
+      "f1": 0.9457,
+      "f2": 0.9332
+    },
+    "variant_b_all_sources": {
+      "precision": 0.872,
+      "recall": 0.8938,
+      "f1": 0.8827,
+      "f2": 0.8893
+    }
+  },
+  "per_source": {
+    "email_spamassasin": {
+      "count": 628,
+      "precision": 0.6879,
+      "recall": 0.6634,
+      "f1": 0.6755,
+      "roc_auc": 0.7485,
+      "pr_auc": 0.6726
+    },
+    "email_phishing_email": {
+      "count": 608,
+      "precision": 0.5465,
+      "recall": 0.6382,
+      "f1": 0.5888,
+      "roc_auc": 0.5958,
+      "pr_auc": 0.6233
+    },
+    "email_ceas_08": {
+      "count": 559,
+      "precision": 0.5094,
+      "recall": 0.4091,
+      "f1": 0.4538,
+      "roc_auc": 0.5829,
+      "pr_auc": 0.5592
+    },
+    "email_nazario": {
+      "count": 307,
+      "precision": 1.0,
+      "recall": 0.8143,
+      "f1": 0.8977,
+      "roc_auc": null,
+      "pr_auc": null
+    },
+    "synthetic_in": {
+      "count": 50,
+      "precision": 0.9744,
+      "recall": 1.0,
+      "f1": 0.987,
+      "roc_auc": 0.9934,
+      "pr_auc": 0.9979
+    },
+    "sms": {
+      "count": 1002,
+      "precision": 0.9649,
+      "recall": 0.9016,
+      "f1": 0.9322,
+      "roc_auc": 0.9741,
+      "pr_auc": 0.9467
+    },
+    "email_ling": {
+      "count": 379,
+      "precision": 0.2649,
+      "recall": 0.4348,
+      "f1": 0.3292,
+      "roc_auc": 0.5167,
+      "pr_auc": 0.259
+    },
+    "email_nigerian_fraud": {
+      "count": 280,
+      "precision": 1.0,
+      "recall": 0.2071,
+      "f1": 0.3432,
+      "roc_auc": null,
+      "pr_auc": null
+    },
+    "email_enron": {
+      "count": 589,
+      "precision": 0.3833,
+      "recall": 0.3199,
+      "f1": 0.3487,
+      "roc_auc": 0.434,
+      "pr_auc": 0.4295
+    }
+  }
+}

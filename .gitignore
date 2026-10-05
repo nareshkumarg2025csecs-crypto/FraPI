@@ -1,0 +1,32 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+backend/.env
+
+# Dependencies
+node_modules/
+__pycache__/
+
+# Datasets
+data/raw/
+Phishing Email Dataset/
+SMS Spam Collection/
+sms+spam+collection/
+
+# ML Artifacts
+ml/artifacts/*.pkl
+
+# Build output
+frontend/dist/
+dist/
+build/
+test-results/
+playwright-report/
+*.pyc
+
+# Others
+.pytest_cache/
+.venv/
+venv/
+*.log

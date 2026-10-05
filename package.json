@@ -1,0 +1,22 @@
+{
+  "name": "frapi-sentinel-2",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:frontend\" \"npm run dev:backend\"",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "node scripts/run-backend.js",
+    "train": "cd ml && python train.py",
+    "eval": "npm run eval:gen && tsx eval/run_eval.ts",
+    "eval:gen": "tsx eval/generate_scenarios.ts",
+    "test": "concurrently \"npm run test:frontend\" \"npm run test:backend\"",
+    "test:frontend": "cd frontend && npm run test",
+    "test:backend": "cd backend && (.venv\\Scripts\\pytest -q || pytest -q || python -m pytest -q)",
+
+    "test:e2e": "cd frontend && npm run test:e2e",
+    "build": "cd frontend && npm run build",
+    "setup:ocr": "node setup-ocr.js"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
