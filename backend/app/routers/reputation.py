@@ -64,6 +64,8 @@ def get_stats():
 @limiter.limit("20/minute")
 async def check_reputation(request: Request, body: ReputationCheckRequest):
     stats.inc_requests()
+    from app.services.cache import clear_caches
+    clear_caches()
     urls = body.urls
 
     # Validation: 1-5 items, each http(s), <= 2048 chars; otherwise 422

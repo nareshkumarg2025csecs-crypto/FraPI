@@ -43,7 +43,7 @@ def train_and_eval():
         lowercase=True, ngram_range=(1, 2), min_df=3, max_df=0.9,
         sublinear_tf=True, max_features=20000, token_pattern=r"(?u)\b\w\w+\b", norm="l2"
     )
-    X_tr = vec.fit_transform(train_data["text"] if False else train_var_b["text"])
+    X_tr = vec.fit_transform(train_df["text"])
     y_tr = train_var_b["label"].values
     
     clf = LogisticRegression(class_weight="balanced", solver="liblinear", C=2.0, max_iter=1000, random_state=42)
